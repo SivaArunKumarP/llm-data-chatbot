@@ -3,7 +3,7 @@ import pandas as pd
 from openai import OpenAI
 
 # Set your API key
-client = OpenAI(api_key="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")  # Replace with your real key
+client = OpenAI(api_key="")  # Replace with your real key
 
 # Load dataset
 df = pd.read_csv('sales.csv', parse_dates=['date'])
