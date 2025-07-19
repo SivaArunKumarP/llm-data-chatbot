@@ -21,3 +21,6 @@ llm-data-chatbot/
 ├── templates/
 │ └── index.html # Single‑page frontend
 └── README.md # This file
+
+WebPage Design:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c6a9b29c-8910-49db-9fee-c6ee55bcfb0c" />
