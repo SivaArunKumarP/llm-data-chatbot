@@ -1,0 +1,2001 @@
+date,region,product,units_sold,unit_price,revenue
+2023-01-01,Europe,Widget A,212,20,4240
+2023-01-01,Europe,Widget C,77,30,2310
+2023-01-01,South America,Widget C,282,30,8460
+2023-01-01,Europe,Widget A,228,20,4560
+2023-01-02,South America,Widget A,225,20,4500
+2023-01-02,South America,Widget B,271,25,6775
+2023-01-02,South America,Widget A,256,20,5120
+2023-01-03,South America,Widget B,160,25,4000
+2023-01-03,South America,Widget C,141,30,4230
+2023-01-04,South America,Widget B,85,25,2125
+2023-01-04,South America,Widget C,179,30,5370
+2023-01-05,Europe,Widget B,168,25,4200
+2023-01-05,Europe,Widget C,287,30,8610
+2023-01-05,Europe,Widget C,152,30,4560
+2023-01-05,North America,Widget A,142,20,2840
+2023-01-05,South America,Widget C,278,30,8340
+2023-01-06,South America,Widget C,96,30,2880
+2023-01-07,Asia,Widget C,229,30,6870
+2023-01-07,Asia,Widget B,287,25,7175
+2023-01-08,Asia,Widget C,167,30,5010
+2023-01-08,North America,Widget B,297,25,7425
+2023-01-08,Europe,Widget B,213,25,5325
+2023-01-09,South America,Widget A,199,20,3980
+2023-01-09,North America,Widget A,127,20,2540
+2023-01-10,North America,Widget B,214,25,5350
+2023-01-10,North America,Widget A,195,20,3900
+2023-01-11,North America,Widget B,190,25,4750
+2023-01-11,South America,Widget C,150,30,4500
+2023-01-11,North America,Widget B,62,25,1550
+2023-01-12,Europe,Widget A,220,20,4400
+2023-01-12,Asia,Widget B,119,25,2975
+2023-01-12,Europe,Widget C,191,30,5730
+2023-01-13,Europe,Widget C,261,30,7830
+2023-01-14,Europe,Widget B,192,25,4800
+2023-01-15,South America,Widget A,69,20,1380
+2023-01-15,Asia,Widget C,232,30,6960
+2023-01-15,South America,Widget A,236,20,4720
+2023-01-15,Asia,Widget C,165,30,4950
+2023-01-15,Asia,Widget B,197,25,4925
+2023-01-16,South America,Widget B,295,25,7375
+2023-01-16,Europe,Widget A,206,20,4120
+2023-01-16,Asia,Widget C,278,30,8340
+2023-01-17,Asia,Widget C,235,30,7050
+2023-01-17,North America,Widget A,234,20,4680
+2023-01-17,Europe,Widget A,287,20,5740
+2023-01-17,North America,Widget C,80,30,2400
+2023-01-18,South America,Widget A,236,20,4720
+2023-01-18,North America,Widget C,186,30,5580
+2023-01-19,Europe,Widget A,171,20,3420
+2023-01-19,Asia,Widget C,121,30,3630
+2023-01-20,Asia,Widget B,100,25,2500
+2023-01-20,Asia,Widget A,217,20,4340
+2023-01-21,Europe,Widget B,199,25,4975
+2023-01-21,South America,Widget A,220,20,4400
+2023-01-22,South America,Widget C,72,30,2160
+2023-01-22,South America,Widget C,202,30,6060
+2023-01-23,Europe,Widget B,119,25,2975
+2023-01-23,Europe,Widget A,283,20,5660
+2023-01-23,North America,Widget C,230,30,6900
+2023-01-23,North America,Widget A,176,20,3520
+2023-01-25,Asia,Widget A,260,20,5200
+2023-01-25,Europe,Widget C,83,30,2490
+2023-01-25,Asia,Widget B,298,25,7450
+2023-01-25,South America,Widget B,60,25,1500
+2023-01-26,Asia,Widget B,74,25,1850
+2023-01-26,North America,Widget A,244,20,4880
+2023-01-27,Asia,Widget C,278,30,8340
+2023-01-27,Europe,Widget C,88,30,2640
+2023-01-28,Europe,Widget A,62,20,1240
+2023-01-28,Asia,Widget C,264,30,7920
+2023-01-28,North America,Widget A,288,20,5760
+2023-01-28,Asia,Widget A,99,20,1980
+2023-01-29,North America,Widget B,170,25,4250
+2023-01-29,South America,Widget C,172,30,5160
+2023-01-29,South America,Widget A,95,20,1900
+2023-01-29,Europe,Widget C,297,30,8910
+2023-01-29,Europe,Widget C,68,30,2040
+2023-02-01,North America,Widget C,223,30,6690
+2023-02-02,Asia,Widget A,144,20,2880
+2023-02-02,South America,Widget A,201,20,4020
+2023-02-03,South America,Widget A,208,20,4160
+2023-02-03,Europe,Widget A,264,20,5280
+2023-02-03,South America,Widget B,236,25,5900
+2023-02-04,Europe,Widget A,245,20,4900
+2023-02-04,Europe,Widget B,227,25,5675
+2023-02-05,South America,Widget A,262,20,5240
+2023-02-05,North America,Widget B,188,25,4700
+2023-02-06,Europe,Widget B,217,25,5425
+2023-02-06,South America,Widget A,153,20,3060
+2023-02-06,South America,Widget C,275,30,8250
+2023-02-07,North America,Widget A,57,20,1140
+2023-02-08,North America,Widget C,197,30,5910
+2023-02-08,South America,Widget C,156,30,4680
+2023-02-08,North America,Widget B,298,25,7450
+2023-02-08,Asia,Widget B,71,25,1775
+2023-02-08,Asia,Widget C,218,30,6540
+2023-02-08,Europe,Widget C,54,30,1620
+2023-02-08,Europe,Widget A,177,20,3540
+2023-02-08,Asia,Widget C,117,30,3510
+2023-02-09,South America,Widget B,274,25,6850
+2023-02-10,Asia,Widget A,258,20,5160
+2023-02-10,Asia,Widget C,195,30,5850
+2023-02-10,South America,Widget C,300,30,9000
+2023-02-10,South America,Widget C,133,30,3990
+2023-02-11,Europe,Widget C,191,30,5730
+2023-02-11,Asia,Widget B,148,25,3700
+2023-02-11,North America,Widget A,171,20,3420
+2023-02-11,Europe,Widget A,286,20,5720
+2023-02-12,Asia,Widget A,265,20,5300
+2023-02-12,Asia,Widget A,204,20,4080
+2023-02-13,South America,Widget B,74,25,1850
+2023-02-15,North America,Widget B,262,25,6550
+2023-02-15,South America,Widget A,174,20,3480
+2023-02-16,South America,Widget C,94,30,2820
+2023-02-16,Asia,Widget B,128,25,3200
+2023-02-16,Asia,Widget A,68,20,1360
+2023-02-16,South America,Widget A,171,20,3420
+2023-02-16,South America,Widget A,226,20,4520
+2023-02-16,Europe,Widget A,241,20,4820
+2023-02-16,North America,Widget B,181,25,4525
+2023-02-17,North America,Widget C,166,30,4980
+2023-02-17,South America,Widget A,293,20,5860
+2023-02-18,North America,Widget A,291,20,5820
+2023-02-18,North America,Widget C,69,30,2070
+2023-02-20,Asia,Widget C,85,30,2550
+2023-02-20,Asia,Widget B,276,25,6900
+2023-02-20,Europe,Widget C,69,30,2070
+2023-02-20,North America,Widget B,122,25,3050
+2023-02-20,South America,Widget A,222,20,4440
+2023-02-22,Europe,Widget B,280,25,7000
+2023-02-22,Europe,Widget A,77,20,1540
+2023-02-22,South America,Widget B,296,25,7400
+2023-02-22,North America,Widget A,184,20,3680
+2023-02-22,Asia,Widget A,197,20,3940
+2023-02-23,Asia,Widget A,255,20,5100
+2023-02-23,Asia,Widget B,167,25,4175
+2023-02-23,Asia,Widget B,60,25,1500
+2023-02-23,Asia,Widget B,55,25,1375
+2023-02-23,South America,Widget B,287,25,7175
+2023-02-24,Europe,Widget B,138,25,3450
+2023-02-24,Asia,Widget B,220,25,5500
+2023-02-24,Asia,Widget C,204,30,6120
+2023-02-25,North America,Widget A,149,20,2980
+2023-02-25,South America,Widget C,113,30,3390
+2023-02-27,North America,Widget C,148,30,4440
+2023-02-27,South America,Widget B,285,25,7125
+2023-02-27,Asia,Widget B,114,25,2850
+2023-02-27,Asia,Widget B,146,25,3650
+2023-02-28,South America,Widget C,237,30,7110
+2023-02-28,Europe,Widget C,195,30,5850
+2023-03-02,South America,Widget A,185,20,3700
+2023-03-02,North America,Widget B,236,25,5900
+2023-03-02,Asia,Widget C,139,30,4170
+2023-03-03,Asia,Widget C,246,30,7380
+2023-03-03,Europe,Widget B,249,25,6225
+2023-03-04,Asia,Widget A,75,20,1500
+2023-03-04,Europe,Widget B,233,25,5825
+2023-03-04,North America,Widget C,194,30,5820
+2023-03-04,Asia,Widget B,232,25,5800
+2023-03-06,Europe,Widget C,223,30,6690
+2023-03-06,Europe,Widget C,161,30,4830
+2023-03-08,Europe,Widget A,186,20,3720
+2023-03-10,Europe,Widget B,125,25,3125
+2023-03-10,Europe,Widget A,197,20,3940
+2023-03-10,North America,Widget A,81,20,1620
+2023-03-10,North America,Widget C,237,30,7110
+2023-03-10,North America,Widget A,160,20,3200
+2023-03-11,Asia,Widget A,247,20,4940
+2023-03-13,Asia,Widget C,123,30,3690
+2023-03-13,North America,Widget B,205,25,5125
+2023-03-14,South America,Widget A,285,20,5700
+2023-03-14,North America,Widget B,224,25,5600
+2023-03-15,South America,Widget C,222,30,6660
+2023-03-16,Europe,Widget A,268,20,5360
+2023-03-16,South America,Widget B,248,25,6200
+2023-03-16,Asia,Widget C,134,30,4020
+2023-03-16,Asia,Widget A,249,20,4980
+2023-03-16,South America,Widget C,170,30,5100
+2023-03-17,Asia,Widget C,233,30,6990
+2023-03-17,South America,Widget C,83,30,2490
+2023-03-19,Europe,Widget A,83,20,1660
+2023-03-19,Asia,Widget B,67,25,1675
+2023-03-19,Europe,Widget C,187,30,5610
+2023-03-19,Asia,Widget C,202,30,6060
+2023-03-19,North America,Widget A,78,20,1560
+2023-03-21,Asia,Widget B,191,25,4775
+2023-03-22,Asia,Widget A,139,20,2780
+2023-03-22,North America,Widget C,226,30,6780
+2023-03-22,South America,Widget A,71,20,1420
+2023-03-22,Asia,Widget A,210,20,4200
+2023-03-23,North America,Widget A,96,20,1920
+2023-03-24,Asia,Widget B,136,25,3400
+2023-03-25,North America,Widget B,260,25,6500
+2023-03-26,Asia,Widget C,128,30,3840
+2023-03-26,South America,Widget A,274,20,5480
+2023-03-27,North America,Widget C,167,30,5010
+2023-03-27,North America,Widget A,59,20,1180
+2023-03-27,North America,Widget A,175,20,3500
+2023-03-27,Asia,Widget B,105,25,2625
+2023-03-28,South America,Widget C,62,30,1860
+2023-03-29,Europe,Widget B,188,25,4700
+2023-03-29,Europe,Widget C,75,30,2250
+2023-03-30,North America,Widget B,246,25,6150
+2023-03-30,Asia,Widget C,211,30,6330
+2023-03-31,Europe,Widget C,74,30,2220
+2023-03-31,Europe,Widget A,198,20,3960
+2023-03-31,Asia,Widget B,283,25,7075
+2023-04-01,North America,Widget C,63,30,1890
+2023-04-02,Asia,Widget C,241,30,7230
+2023-04-02,South America,Widget C,258,30,7740
+2023-04-03,Asia,Widget B,57,25,1425
+2023-04-04,South America,Widget A,153,20,3060
+2023-04-05,South America,Widget A,139,20,2780
+2023-04-05,Europe,Widget A,74,20,1480
+2023-04-05,Asia,Widget B,223,25,5575
+2023-04-05,North America,Widget B,66,25,1650
+2023-04-06,North America,Widget B,86,25,2150
+2023-04-06,North America,Widget B,106,25,2650
+2023-04-06,Asia,Widget B,257,25,6425
+2023-04-06,North America,Widget A,122,20,2440
+2023-04-07,Europe,Widget B,189,25,4725
+2023-04-08,South America,Widget A,143,20,2860
+2023-04-08,Asia,Widget C,113,30,3390
+2023-04-08,Europe,Widget C,289,30,8670
+2023-04-09,Europe,Widget A,102,20,2040
+2023-04-09,Asia,Widget B,157,25,3925
+2023-04-09,South America,Widget C,161,30,4830
+2023-04-09,Europe,Widget C,178,30,5340
+2023-04-09,Europe,Widget C,263,30,7890
+2023-04-09,Europe,Widget C,142,30,4260
+2023-04-09,Asia,Widget C,215,30,6450
+2023-04-09,South America,Widget A,242,20,4840
+2023-04-09,Asia,Widget C,218,30,6540
+2023-04-10,Europe,Widget C,264,30,7920
+2023-04-10,Europe,Widget B,275,25,6875
+2023-04-12,Europe,Widget A,243,20,4860
+2023-04-13,South America,Widget B,263,25,6575
+2023-04-13,Asia,Widget A,86,20,1720
+2023-04-13,North America,Widget C,78,30,2340
+2023-04-14,Europe,Widget A,213,20,4260
+2023-04-14,Europe,Widget A,185,20,3700
+2023-04-14,Europe,Widget C,80,30,2400
+2023-04-15,Asia,Widget A,209,20,4180
+2023-04-16,South America,Widget B,206,25,5150
+2023-04-16,North America,Widget B,258,25,6450
+2023-04-16,South America,Widget C,294,30,8820
+2023-04-16,North America,Widget C,167,30,5010
+2023-04-17,South America,Widget A,160,20,3200
+2023-04-17,Asia,Widget B,243,25,6075
+2023-04-17,South America,Widget C,76,30,2280
+2023-04-18,Asia,Widget A,147,20,2940
+2023-04-18,Asia,Widget A,59,20,1180
+2023-04-19,South America,Widget C,144,30,4320
+2023-04-19,North America,Widget C,92,30,2760
+2023-04-19,North America,Widget A,215,20,4300
+2023-04-21,South America,Widget B,121,25,3025
+2023-04-21,South America,Widget A,283,20,5660
+2023-04-21,South America,Widget A,117,20,2340
+2023-04-22,Asia,Widget C,101,30,3030
+2023-04-23,Asia,Widget C,79,30,2370
+2023-04-23,Asia,Widget C,233,30,6990
+2023-04-23,Asia,Widget C,194,30,5820
+2023-04-23,South America,Widget B,152,25,3800
+2023-04-23,South America,Widget A,138,20,2760
+2023-04-23,Asia,Widget A,219,20,4380
+2023-04-24,South America,Widget C,110,30,3300
+2023-04-25,North America,Widget A,241,20,4820
+2023-04-25,South America,Widget A,295,20,5900
+2023-04-26,Asia,Widget C,102,30,3060
+2023-04-27,South America,Widget A,156,20,3120
+2023-04-27,South America,Widget A,300,20,6000
+2023-04-27,North America,Widget C,122,30,3660
+2023-04-28,South America,Widget A,243,20,4860
+2023-04-28,Asia,Widget A,181,20,3620
+2023-04-28,Europe,Widget A,53,20,1060
+2023-04-28,North America,Widget B,194,25,4850
+2023-04-28,Europe,Widget B,74,25,1850
+2023-04-29,Asia,Widget B,251,25,6275
+2023-04-29,South America,Widget A,56,20,1120
+2023-04-30,Asia,Widget C,237,30,7110
+2023-04-30,North America,Widget C,78,30,2340
+2023-04-30,South America,Widget B,81,25,2025
+2023-05-01,North America,Widget B,254,25,6350
+2023-05-02,South America,Widget C,69,30,2070
+2023-05-02,Asia,Widget C,157,30,4710
+2023-05-03,South America,Widget B,131,25,3275
+2023-05-04,Europe,Widget A,193,20,3860
+2023-05-05,North America,Widget A,198,20,3960
+2023-05-06,Asia,Widget A,214,20,4280
+2023-05-06,South America,Widget C,93,30,2790
+2023-05-06,North America,Widget B,267,25,6675
+2023-05-07,North America,Widget B,219,25,5475
+2023-05-07,South America,Widget A,252,20,5040
+2023-05-08,North America,Widget C,101,30,3030
+2023-05-08,Europe,Widget C,206,30,6180
+2023-05-08,Asia,Widget A,53,20,1060
+2023-05-09,Europe,Widget C,94,30,2820
+2023-05-10,Asia,Widget A,112,20,2240
+2023-05-10,Europe,Widget A,136,20,2720
+2023-05-10,South America,Widget B,80,25,2000
+2023-05-11,Asia,Widget B,138,25,3450
+2023-05-11,Asia,Widget A,58,20,1160
+2023-05-11,Asia,Widget B,111,25,2775
+2023-05-11,Asia,Widget B,259,25,6475
+2023-05-11,Asia,Widget C,246,30,7380
+2023-05-12,North America,Widget C,69,30,2070
+2023-05-12,South America,Widget C,150,30,4500
+2023-05-13,Asia,Widget B,193,25,4825
+2023-05-13,South America,Widget A,216,20,4320
+2023-05-13,Europe,Widget A,66,20,1320
+2023-05-14,South America,Widget B,99,25,2475
+2023-05-14,Asia,Widget C,250,30,7500
+2023-05-15,Asia,Widget B,272,25,6800
+2023-05-15,North America,Widget C,178,30,5340
+2023-05-17,North America,Widget C,160,30,4800
+2023-05-17,North America,Widget B,253,25,6325
+2023-05-17,Asia,Widget A,109,20,2180
+2023-05-17,North America,Widget A,160,20,3200
+2023-05-18,South America,Widget A,157,20,3140
+2023-05-19,Asia,Widget A,89,20,1780
+2023-05-19,Europe,Widget B,225,25,5625
+2023-05-20,Asia,Widget B,133,25,3325
+2023-05-20,North America,Widget C,289,30,8670
+2023-05-21,Asia,Widget C,268,30,8040
+2023-05-21,North America,Widget B,87,25,2175
+2023-05-21,North America,Widget B,258,25,6450
+2023-05-22,Europe,Widget A,105,20,2100
+2023-05-23,Europe,Widget C,145,30,4350
+2023-05-23,South America,Widget B,238,25,5950
+2023-05-23,North America,Widget C,286,30,8580
+2023-05-24,North America,Widget A,89,20,1780
+2023-05-24,Europe,Widget A,240,20,4800
+2023-05-24,Europe,Widget A,128,20,2560
+2023-05-24,Europe,Widget C,276,30,8280
+2023-05-24,South America,Widget A,148,20,2960
+2023-05-25,South America,Widget B,216,25,5400
+2023-05-25,North America,Widget B,233,25,5825
+2023-05-25,Europe,Widget B,117,25,2925
+2023-05-25,North America,Widget B,63,25,1575
+2023-05-26,Europe,Widget C,205,30,6150
+2023-05-26,Europe,Widget B,184,25,4600
+2023-05-26,Europe,Widget A,169,20,3380
+2023-05-26,South America,Widget A,186,20,3720
+2023-05-27,Asia,Widget A,159,20,3180
+2023-05-27,South America,Widget A,130,20,2600
+2023-05-28,Europe,Widget C,290,30,8700
+2023-05-28,North America,Widget B,228,25,5700
+2023-05-28,Asia,Widget A,166,20,3320
+2023-05-29,South America,Widget A,177,20,3540
+2023-05-29,Europe,Widget C,150,30,4500
+2023-05-30,Asia,Widget C,164,30,4920
+2023-05-31,North America,Widget B,121,25,3025
+2023-05-31,Asia,Widget B,222,25,5550
+2023-05-31,North America,Widget B,198,25,4950
+2023-06-01,Europe,Widget A,136,20,2720
+2023-06-01,South America,Widget A,55,20,1100
+2023-06-02,North America,Widget A,80,20,1600
+2023-06-02,North America,Widget C,214,30,6420
+2023-06-02,North America,Widget C,167,30,5010
+2023-06-03,Europe,Widget B,286,25,7150
+2023-06-03,Europe,Widget C,116,30,3480
+2023-06-03,South America,Widget C,184,30,5520
+2023-06-04,Asia,Widget C,286,30,8580
+2023-06-05,Europe,Widget C,126,30,3780
+2023-06-06,Asia,Widget C,255,30,7650
+2023-06-06,South America,Widget A,136,20,2720
+2023-06-06,Asia,Widget A,165,20,3300
+2023-06-06,North America,Widget B,272,25,6800
+2023-06-07,South America,Widget B,285,25,7125
+2023-06-07,North America,Widget A,62,20,1240
+2023-06-08,North America,Widget A,288,20,5760
+2023-06-08,North America,Widget B,185,25,4625
+2023-06-09,North America,Widget C,266,30,7980
+2023-06-09,North America,Widget A,257,20,5140
+2023-06-09,North America,Widget B,241,25,6025
+2023-06-10,South America,Widget A,207,20,4140
+2023-06-10,Europe,Widget B,162,25,4050
+2023-06-10,South America,Widget C,219,30,6570
+2023-06-10,North America,Widget B,219,25,5475
+2023-06-10,South America,Widget A,139,20,2780
+2023-06-11,Asia,Widget C,257,30,7710
+2023-06-11,Europe,Widget C,143,30,4290
+2023-06-12,North America,Widget A,62,20,1240
+2023-06-12,Europe,Widget C,66,30,1980
+2023-06-14,South America,Widget B,174,25,4350
+2023-06-14,Asia,Widget B,84,25,2100
+2023-06-14,Europe,Widget C,212,30,6360
+2023-06-15,Europe,Widget A,65,20,1300
+2023-06-16,Europe,Widget A,114,20,2280
+2023-06-16,North America,Widget C,298,30,8940
+2023-06-17,Europe,Widget A,291,20,5820
+2023-06-17,North America,Widget C,74,30,2220
+2023-06-17,South America,Widget A,71,20,1420
+2023-06-17,Europe,Widget B,192,25,4800
+2023-06-19,Asia,Widget A,103,20,2060
+2023-06-19,Asia,Widget C,233,30,6990
+2023-06-20,Asia,Widget C,200,30,6000
+2023-06-20,Asia,Widget C,127,30,3810
+2023-06-21,Europe,Widget C,71,30,2130
+2023-06-21,Europe,Widget C,143,30,4290
+2023-06-21,North America,Widget C,142,30,4260
+2023-06-22,Asia,Widget C,190,30,5700
+2023-06-22,North America,Widget A,244,20,4880
+2023-06-22,Europe,Widget A,192,20,3840
+2023-06-23,Europe,Widget B,121,25,3025
+2023-06-24,Europe,Widget B,169,25,4225
+2023-06-25,South America,Widget A,114,20,2280
+2023-06-26,Europe,Widget C,116,30,3480
+2023-06-26,North America,Widget C,143,30,4290
+2023-06-26,Europe,Widget A,289,20,5780
+2023-06-27,South America,Widget B,103,25,2575
+2023-06-27,Europe,Widget A,276,20,5520
+2023-06-28,South America,Widget A,158,20,3160
+2023-06-28,North America,Widget B,273,25,6825
+2023-06-29,Asia,Widget C,249,30,7470
+2023-06-29,North America,Widget B,227,25,5675
+2023-06-30,North America,Widget A,229,20,4580
+2023-07-01,North America,Widget C,135,30,4050
+2023-07-01,Asia,Widget A,78,20,1560
+2023-07-01,North America,Widget C,79,30,2370
+2023-07-01,Europe,Widget A,66,20,1320
+2023-07-02,North America,Widget B,126,25,3150
+2023-07-02,Europe,Widget A,160,20,3200
+2023-07-03,South America,Widget B,284,25,7100
+2023-07-03,North America,Widget B,262,25,6550
+2023-07-05,North America,Widget A,257,20,5140
+2023-07-06,Asia,Widget A,116,20,2320
+2023-07-06,South America,Widget C,232,30,6960
+2023-07-06,South America,Widget B,82,25,2050
+2023-07-07,North America,Widget A,207,20,4140
+2023-07-07,South America,Widget C,126,30,3780
+2023-07-08,North America,Widget B,125,25,3125
+2023-07-09,North America,Widget C,176,30,5280
+2023-07-09,Europe,Widget A,225,20,4500
+2023-07-09,North America,Widget B,264,25,6600
+2023-07-09,Asia,Widget A,51,20,1020
+2023-07-09,Europe,Widget C,98,30,2940
+2023-07-10,North America,Widget A,264,20,5280
+2023-07-10,Asia,Widget B,153,25,3825
+2023-07-11,Europe,Widget A,236,20,4720
+2023-07-11,Europe,Widget C,58,30,1740
+2023-07-11,Europe,Widget B,295,25,7375
+2023-07-11,South America,Widget C,145,30,4350
+2023-07-13,South America,Widget C,99,30,2970
+2023-07-13,North America,Widget A,56,20,1120
+2023-07-13,Asia,Widget C,208,30,6240
+2023-07-14,South America,Widget B,85,25,2125
+2023-07-14,South America,Widget C,192,30,5760
+2023-07-14,Europe,Widget A,258,20,5160
+2023-07-15,Asia,Widget B,164,25,4100
+2023-07-15,North America,Widget B,291,25,7275
+2023-07-15,Asia,Widget A,136,20,2720
+2023-07-17,Asia,Widget A,260,20,5200
+2023-07-17,Europe,Widget B,67,25,1675
+2023-07-19,North America,Widget B,209,25,5225
+2023-07-20,South America,Widget C,67,30,2010
+2023-07-20,North America,Widget B,168,25,4200
+2023-07-20,Europe,Widget A,238,20,4760
+2023-07-20,Europe,Widget A,52,20,1040
+2023-07-20,South America,Widget C,109,30,3270
+2023-07-21,Asia,Widget C,261,30,7830
+2023-07-21,Asia,Widget C,62,30,1860
+2023-07-22,Asia,Widget A,268,20,5360
+2023-07-22,North America,Widget A,256,20,5120
+2023-07-23,South America,Widget A,116,20,2320
+2023-07-24,South America,Widget A,179,20,3580
+2023-07-25,Europe,Widget C,161,30,4830
+2023-07-26,Asia,Widget A,300,20,6000
+2023-07-26,Europe,Widget B,275,25,6875
+2023-07-27,Europe,Widget C,121,30,3630
+2023-07-28,South America,Widget B,267,25,6675
+2023-07-29,South America,Widget B,121,25,3025
+2023-07-29,Asia,Widget B,190,25,4750
+2023-07-31,South America,Widget A,93,20,1860
+2023-08-01,Asia,Widget B,161,25,4025
+2023-08-02,North America,Widget B,155,25,3875
+2023-08-03,Asia,Widget C,260,30,7800
+2023-08-03,South America,Widget C,295,30,8850
+2023-08-03,Asia,Widget C,147,30,4410
+2023-08-04,Europe,Widget C,273,30,8190
+2023-08-04,Europe,Widget A,158,20,3160
+2023-08-04,North America,Widget C,190,30,5700
+2023-08-05,Europe,Widget B,89,25,2225
+2023-08-05,North America,Widget A,54,20,1080
+2023-08-05,South America,Widget B,145,25,3625
+2023-08-05,South America,Widget A,157,20,3140
+2023-08-05,Asia,Widget B,157,25,3925
+2023-08-06,North America,Widget C,54,30,1620
+2023-08-06,Europe,Widget B,252,25,6300
+2023-08-06,Asia,Widget B,118,25,2950
+2023-08-06,South America,Widget B,60,25,1500
+2023-08-08,Europe,Widget C,164,30,4920
+2023-08-08,Europe,Widget C,75,30,2250
+2023-08-08,North America,Widget A,284,20,5680
+2023-08-08,Europe,Widget C,131,30,3930
+2023-08-10,North America,Widget A,117,20,2340
+2023-08-11,Europe,Widget C,239,30,7170
+2023-08-11,North America,Widget C,114,30,3420
+2023-08-11,Asia,Widget B,133,25,3325
+2023-08-11,Asia,Widget A,171,20,3420
+2023-08-12,Asia,Widget B,172,25,4300
+2023-08-13,Europe,Widget C,279,30,8370
+2023-08-13,South America,Widget A,192,20,3840
+2023-08-13,Europe,Widget C,266,30,7980
+2023-08-13,Asia,Widget B,137,25,3425
+2023-08-13,North America,Widget C,109,30,3270
+2023-08-14,North America,Widget B,234,25,5850
+2023-08-14,South America,Widget C,197,30,5910
+2023-08-14,Asia,Widget C,290,30,8700
+2023-08-14,Europe,Widget C,298,30,8940
+2023-08-15,Asia,Widget A,239,20,4780
+2023-08-15,Asia,Widget A,61,20,1220
+2023-08-15,Asia,Widget B,236,25,5900
+2023-08-16,Asia,Widget B,147,25,3675
+2023-08-16,South America,Widget B,196,25,4900
+2023-08-17,Asia,Widget C,78,30,2340
+2023-08-17,South America,Widget C,162,30,4860
+2023-08-17,Asia,Widget A,252,20,5040
+2023-08-17,Asia,Widget C,59,30,1770
+2023-08-17,South America,Widget B,282,25,7050
+2023-08-17,North America,Widget A,117,20,2340
+2023-08-18,Asia,Widget A,63,20,1260
+2023-08-18,North America,Widget A,108,20,2160
+2023-08-19,Asia,Widget C,215,30,6450
+2023-08-19,North America,Widget C,136,30,4080
+2023-08-19,Europe,Widget B,292,25,7300
+2023-08-19,South America,Widget C,283,30,8490
+2023-08-19,Europe,Widget A,89,20,1780
+2023-08-21,Asia,Widget A,235,20,4700
+2023-08-21,Asia,Widget A,239,20,4780
+2023-08-21,South America,Widget A,222,20,4440
+2023-08-21,Asia,Widget B,145,25,3625
+2023-08-21,North America,Widget A,155,20,3100
+2023-08-21,Europe,Widget C,286,30,8580
+2023-08-22,South America,Widget B,217,25,5425
+2023-08-23,North America,Widget C,190,30,5700
+2023-08-23,Asia,Widget B,201,25,5025
+2023-08-24,North America,Widget C,107,30,3210
+2023-08-24,South America,Widget C,298,30,8940
+2023-08-25,Europe,Widget C,186,30,5580
+2023-08-25,South America,Widget B,271,25,6775
+2023-08-27,Europe,Widget A,231,20,4620
+2023-08-27,North America,Widget B,239,25,5975
+2023-08-27,Asia,Widget A,70,20,1400
+2023-08-27,South America,Widget C,240,30,7200
+2023-08-29,South America,Widget A,133,20,2660
+2023-08-30,North America,Widget B,171,25,4275
+2023-08-30,South America,Widget B,153,25,3825
+2023-08-31,Asia,Widget B,125,25,3125
+2023-08-31,North America,Widget B,143,25,3575
+2023-08-31,Europe,Widget B,144,25,3600
+2023-09-01,South America,Widget C,229,30,6870
+2023-09-01,South America,Widget A,136,20,2720
+2023-09-01,Europe,Widget A,295,20,5900
+2023-09-02,South America,Widget A,183,20,3660
+2023-09-03,South America,Widget B,61,25,1525
+2023-09-04,Europe,Widget C,89,30,2670
+2023-09-04,South America,Widget B,74,25,1850
+2023-09-06,Europe,Widget C,124,30,3720
+2023-09-06,North America,Widget B,229,25,5725
+2023-09-07,North America,Widget C,141,30,4230
+2023-09-07,North America,Widget B,297,25,7425
+2023-09-08,Europe,Widget A,145,20,2900
+2023-09-08,South America,Widget B,99,25,2475
+2023-09-09,Asia,Widget B,108,25,2700
+2023-09-09,North America,Widget B,231,25,5775
+2023-09-10,South America,Widget C,157,30,4710
+2023-09-10,South America,Widget A,273,20,5460
+2023-09-10,Asia,Widget C,159,30,4770
+2023-09-10,Asia,Widget A,177,20,3540
+2023-09-10,South America,Widget C,171,30,5130
+2023-09-10,Asia,Widget C,63,30,1890
+2023-09-11,Europe,Widget C,300,30,9000
+2023-09-11,South America,Widget A,286,20,5720
+2023-09-11,Asia,Widget B,212,25,5300
+2023-09-11,South America,Widget A,118,20,2360
+2023-09-11,South America,Widget B,180,25,4500
+2023-09-13,Asia,Widget A,218,20,4360
+2023-09-13,South America,Widget B,210,25,5250
+2023-09-13,Asia,Widget A,142,20,2840
+2023-09-14,Asia,Widget A,112,20,2240
+2023-09-15,Asia,Widget B,180,25,4500
+2023-09-16,Asia,Widget A,154,20,3080
+2023-09-16,North America,Widget B,280,25,7000
+2023-09-16,Asia,Widget A,168,20,3360
+2023-09-16,Asia,Widget B,185,25,4625
+2023-09-18,Asia,Widget B,259,25,6475
+2023-09-18,Asia,Widget A,295,20,5900
+2023-09-18,South America,Widget C,172,30,5160
+2023-09-20,South America,Widget C,236,30,7080
+2023-09-21,Europe,Widget A,279,20,5580
+2023-09-21,North America,Widget A,77,20,1540
+2023-09-21,North America,Widget C,159,30,4770
+2023-09-22,Asia,Widget B,288,25,7200
+2023-09-23,South America,Widget A,92,20,1840
+2023-09-25,South America,Widget B,283,25,7075
+2023-09-25,Asia,Widget B,115,25,2875
+2023-09-25,Europe,Widget C,298,30,8940
+2023-09-25,North America,Widget C,159,30,4770
+2023-09-25,South America,Widget A,91,20,1820
+2023-09-26,North America,Widget C,101,30,3030
+2023-09-27,South America,Widget B,254,25,6350
+2023-09-27,Europe,Widget B,64,25,1600
+2023-09-28,Asia,Widget C,220,30,6600
+2023-09-28,Asia,Widget C,226,30,6780
+2023-09-29,Europe,Widget C,220,30,6600
+2023-09-29,South America,Widget C,233,30,6990
+2023-09-30,South America,Widget C,197,30,5910
+2023-09-30,North America,Widget B,244,25,6100
+2023-09-30,North America,Widget C,254,30,7620
+2023-10-01,Asia,Widget A,237,20,4740
+2023-10-01,Europe,Widget A,113,20,2260
+2023-10-01,Europe,Widget C,119,30,3570
+2023-10-02,Europe,Widget A,183,20,3660
+2023-10-04,North America,Widget A,65,20,1300
+2023-10-04,Europe,Widget A,162,20,3240
+2023-10-04,South America,Widget C,54,30,1620
+2023-10-04,Asia,Widget A,205,20,4100
+2023-10-04,North America,Widget C,293,30,8790
+2023-10-05,Europe,Widget C,57,30,1710
+2023-10-06,South America,Widget A,269,20,5380
+2023-10-07,Asia,Widget A,240,20,4800
+2023-10-07,Asia,Widget A,101,20,2020
+2023-10-07,North America,Widget C,260,30,7800
+2023-10-08,Asia,Widget A,227,20,4540
+2023-10-08,South America,Widget C,112,30,3360
+2023-10-09,South America,Widget A,115,20,2300
+2023-10-09,South America,Widget A,92,20,1840
+2023-10-10,South America,Widget C,216,30,6480
+2023-10-10,North America,Widget C,264,30,7920
+2023-10-10,Asia,Widget C,264,30,7920
+2023-10-11,North America,Widget C,65,30,1950
+2023-10-12,South America,Widget B,155,25,3875
+2023-10-12,Europe,Widget B,164,25,4100
+2023-10-12,North America,Widget C,279,30,8370
+2023-10-12,South America,Widget B,171,25,4275
+2023-10-12,South America,Widget C,122,30,3660
+2023-10-13,North America,Widget A,114,20,2280
+2023-10-14,South America,Widget B,181,25,4525
+2023-10-15,South America,Widget A,103,20,2060
+2023-10-15,Asia,Widget B,64,25,1600
+2023-10-15,Europe,Widget B,81,25,2025
+2023-10-16,Asia,Widget C,64,30,1920
+2023-10-16,South America,Widget C,212,30,6360
+2023-10-16,Europe,Widget B,78,25,1950
+2023-10-16,Europe,Widget B,130,25,3250
+2023-10-16,North America,Widget C,66,30,1980
+2023-10-16,North America,Widget C,198,30,5940
+2023-10-18,Europe,Widget C,205,30,6150
+2023-10-19,South America,Widget C,159,30,4770
+2023-10-19,Asia,Widget A,249,20,4980
+2023-10-20,Asia,Widget B,281,25,7025
+2023-10-21,Europe,Widget B,250,25,6250
+2023-10-22,South America,Widget B,199,25,4975
+2023-10-23,South America,Widget A,213,20,4260
+2023-10-23,Europe,Widget A,144,20,2880
+2023-10-23,Asia,Widget C,124,30,3720
+2023-10-23,Asia,Widget C,214,30,6420
+2023-10-23,North America,Widget B,242,25,6050
+2023-10-23,Asia,Widget A,107,20,2140
+2023-10-24,Europe,Widget B,176,25,4400
+2023-10-25,Europe,Widget B,126,25,3150
+2023-10-27,Europe,Widget A,283,20,5660
+2023-10-28,South America,Widget A,267,20,5340
+2023-10-29,South America,Widget B,156,25,3900
+2023-10-29,Asia,Widget C,143,30,4290
+2023-10-29,South America,Widget B,250,25,6250
+2023-10-29,North America,Widget B,71,25,1775
+2023-10-30,Asia,Widget C,246,30,7380
+2023-10-30,Asia,Widget C,165,30,4950
+2023-10-31,Europe,Widget C,205,30,6150
+2023-11-01,Europe,Widget B,162,25,4050
+2023-11-01,Asia,Widget C,132,30,3960
+2023-11-01,Europe,Widget B,139,25,3475
+2023-11-02,North America,Widget B,175,25,4375
+2023-11-02,South America,Widget A,283,20,5660
+2023-11-04,Europe,Widget B,300,25,7500
+2023-11-05,Europe,Widget B,157,25,3925
+2023-11-05,Asia,Widget C,108,30,3240
+2023-11-06,Asia,Widget C,167,30,5010
+2023-11-06,South America,Widget A,224,20,4480
+2023-11-07,Europe,Widget A,159,20,3180
+2023-11-08,South America,Widget A,296,20,5920
+2023-11-08,North America,Widget A,71,20,1420
+2023-11-09,Asia,Widget B,69,25,1725
+2023-11-09,Asia,Widget C,124,30,3720
+2023-11-10,South America,Widget C,243,30,7290
+2023-11-10,Asia,Widget B,215,25,5375
+2023-11-11,Asia,Widget C,179,30,5370
+2023-11-12,South America,Widget C,242,30,7260
+2023-11-12,Asia,Widget B,257,25,6425
+2023-11-14,Asia,Widget C,183,30,5490
+2023-11-14,North America,Widget C,220,30,6600
+2023-11-14,Europe,Widget A,145,20,2900
+2023-11-14,South America,Widget B,216,25,5400
+2023-11-14,North America,Widget A,246,20,4920
+2023-11-15,Europe,Widget C,280,30,8400
+2023-11-15,Europe,Widget C,129,30,3870
+2023-11-16,Europe,Widget C,236,30,7080
+2023-11-16,Europe,Widget C,174,30,5220
+2023-11-16,Asia,Widget A,201,20,4020
+2023-11-17,North America,Widget A,200,20,4000
+2023-11-17,Europe,Widget A,90,20,1800
+2023-11-18,South America,Widget B,269,25,6725
+2023-11-19,Europe,Widget B,276,25,6900
+2023-11-19,Europe,Widget C,106,30,3180
+2023-11-20,North America,Widget B,92,25,2300
+2023-11-20,South America,Widget B,160,25,4000
+2023-11-20,Europe,Widget B,124,25,3100
+2023-11-21,North America,Widget B,161,25,4025
+2023-11-22,North America,Widget A,162,20,3240
+2023-11-22,North America,Widget A,88,20,1760
+2023-11-23,North America,Widget B,96,25,2400
+2023-11-23,Europe,Widget C,91,30,2730
+2023-11-24,Europe,Widget B,171,25,4275
+2023-11-25,Asia,Widget C,209,30,6270
+2023-11-26,South America,Widget C,163,30,4890
+2023-11-26,South America,Widget C,288,30,8640
+2023-11-26,South America,Widget B,208,25,5200
+2023-11-26,South America,Widget A,207,20,4140
+2023-11-26,South America,Widget C,134,30,4020
+2023-11-27,Europe,Widget A,136,20,2720
+2023-11-27,Europe,Widget C,135,30,4050
+2023-11-30,South America,Widget C,275,30,8250
+2023-12-01,Asia,Widget B,170,25,4250
+2023-12-01,South America,Widget A,84,20,1680
+2023-12-01,North America,Widget A,292,20,5840
+2023-12-02,South America,Widget C,115,30,3450
+2023-12-03,Europe,Widget A,197,20,3940
+2023-12-04,Asia,Widget C,63,30,1890
+2023-12-04,North America,Widget A,92,20,1840
+2023-12-04,North America,Widget B,176,25,4400
+2023-12-05,Europe,Widget A,55,20,1100
+2023-12-05,North America,Widget C,269,30,8070
+2023-12-06,Asia,Widget B,108,25,2700
+2023-12-06,North America,Widget A,224,20,4480
+2023-12-06,North America,Widget A,150,20,3000
+2023-12-07,North America,Widget C,76,30,2280
+2023-12-08,North America,Widget A,225,20,4500
+2023-12-08,Europe,Widget B,174,25,4350
+2023-12-08,South America,Widget A,153,20,3060
+2023-12-08,South America,Widget C,256,30,7680
+2023-12-08,Europe,Widget C,200,30,6000
+2023-12-10,South America,Widget A,222,20,4440
+2023-12-10,South America,Widget C,257,30,7710
+2023-12-10,Europe,Widget C,100,30,3000
+2023-12-10,Europe,Widget B,275,25,6875
+2023-12-12,Europe,Widget C,287,30,8610
+2023-12-12,Asia,Widget A,133,20,2660
+2023-12-12,Europe,Widget B,199,25,4975
+2023-12-12,South America,Widget B,190,25,4750
+2023-12-12,North America,Widget B,173,25,4325
+2023-12-12,South America,Widget C,215,30,6450
+2023-12-12,Asia,Widget A,144,20,2880
+2023-12-13,South America,Widget C,135,30,4050
+2023-12-14,South America,Widget A,131,20,2620
+2023-12-14,South America,Widget C,171,30,5130
+2023-12-14,South America,Widget B,79,25,1975
+2023-12-14,Asia,Widget B,164,25,4100
+2023-12-15,Asia,Widget B,236,25,5900
+2023-12-15,Asia,Widget A,165,20,3300
+2023-12-15,Asia,Widget B,275,25,6875
+2023-12-15,Europe,Widget A,165,20,3300
+2023-12-15,Europe,Widget B,208,25,5200
+2023-12-16,North America,Widget A,137,20,2740
+2023-12-16,South America,Widget B,134,25,3350
+2023-12-16,Asia,Widget A,267,20,5340
+2023-12-16,Europe,Widget B,214,25,5350
+2023-12-20,Asia,Widget C,292,30,8760
+2023-12-22,South America,Widget C,96,30,2880
+2023-12-22,Europe,Widget C,145,30,4350
+2023-12-23,Europe,Widget C,154,30,4620
+2023-12-24,Asia,Widget A,94,20,1880
+2023-12-25,North America,Widget B,250,25,6250
+2023-12-25,South America,Widget C,195,30,5850
+2023-12-25,South America,Widget B,60,25,1500
+2023-12-26,Europe,Widget C,60,30,1800
+2023-12-26,Asia,Widget C,190,30,5700
+2023-12-27,Asia,Widget B,149,25,3725
+2023-12-27,North America,Widget A,289,20,5780
+2023-12-29,Europe,Widget A,292,20,5840
+2023-12-29,Europe,Widget B,286,25,7150
+2023-12-29,Asia,Widget B,243,25,6075
+2023-12-30,North America,Widget C,268,30,8040
+2023-12-30,Europe,Widget B,294,25,7350
+2023-12-31,Asia,Widget A,107,20,2140
+2023-12-31,North America,Widget C,111,30,3330
+2023-12-31,South America,Widget C,231,30,6930
+2023-12-31,North America,Widget B,267,25,6675
+2024-01-01,South America,Widget B,254,25,6350
+2024-01-02,South America,Widget B,142,25,3550
+2024-01-02,North America,Widget A,71,20,1420
+2024-01-04,Europe,Widget A,100,20,2000
+2024-01-04,North America,Widget B,234,25,5850
+2024-01-04,Europe,Widget C,110,30,3300
+2024-01-05,Asia,Widget C,107,30,3210
+2024-01-06,South America,Widget A,224,20,4480
+2024-01-06,North America,Widget B,237,25,5925
+2024-01-06,Asia,Widget B,201,25,5025
+2024-01-07,Europe,Widget B,133,25,3325
+2024-01-08,North America,Widget B,159,25,3975
+2024-01-08,Europe,Widget A,120,20,2400
+2024-01-08,North America,Widget C,143,30,4290
+2024-01-08,South America,Widget C,80,30,2400
+2024-01-09,Europe,Widget B,148,25,3700
+2024-01-09,South America,Widget C,222,30,6660
+2024-01-09,Europe,Widget C,112,30,3360
+2024-01-09,North America,Widget A,55,20,1100
+2024-01-10,Asia,Widget B,158,25,3950
+2024-01-11,Asia,Widget C,252,30,7560
+2024-01-11,Europe,Widget C,69,30,2070
+2024-01-11,North America,Widget B,204,25,5100
+2024-01-12,North America,Widget C,265,30,7950
+2024-01-12,Asia,Widget C,169,30,5070
+2024-01-12,Europe,Widget A,190,20,3800
+2024-01-13,Asia,Widget A,66,20,1320
+2024-01-13,Asia,Widget C,65,30,1950
+2024-01-14,South America,Widget B,228,25,5700
+2024-01-14,Europe,Widget A,198,20,3960
+2024-01-15,North America,Widget A,274,20,5480
+2024-01-15,North America,Widget C,258,30,7740
+2024-01-15,Asia,Widget B,55,25,1375
+2024-01-15,Europe,Widget B,170,25,4250
+2024-01-16,South America,Widget B,266,25,6650
+2024-01-19,Asia,Widget B,138,25,3450
+2024-01-20,North America,Widget A,155,20,3100
+2024-01-20,South America,Widget B,176,25,4400
+2024-01-20,South America,Widget A,247,20,4940
+2024-01-21,South America,Widget C,136,30,4080
+2024-01-21,Europe,Widget C,220,30,6600
+2024-01-21,Asia,Widget A,220,20,4400
+2024-01-21,North America,Widget B,298,25,7450
+2024-01-21,South America,Widget B,155,25,3875
+2024-01-21,South America,Widget A,181,20,3620
+2024-01-22,South America,Widget A,209,20,4180
+2024-01-22,South America,Widget B,230,25,5750
+2024-01-23,Europe,Widget B,120,25,3000
+2024-01-23,South America,Widget A,92,20,1840
+2024-01-24,South America,Widget B,143,25,3575
+2024-01-24,South America,Widget B,237,25,5925
+2024-01-25,South America,Widget C,61,30,1830
+2024-01-25,North America,Widget A,287,20,5740
+2024-01-26,Europe,Widget B,200,25,5000
+2024-01-26,Asia,Widget A,78,20,1560
+2024-01-26,Asia,Widget C,234,30,7020
+2024-01-27,Asia,Widget A,286,20,5720
+2024-01-27,North America,Widget A,264,20,5280
+2024-01-27,North America,Widget A,274,20,5480
+2024-01-28,South America,Widget A,204,20,4080
+2024-01-28,Asia,Widget A,83,20,1660
+2024-01-28,North America,Widget A,259,20,5180
+2024-01-28,South America,Widget A,76,20,1520
+2024-01-29,Europe,Widget B,230,25,5750
+2024-01-29,South America,Widget C,91,30,2730
+2024-01-31,North America,Widget C,222,30,6660
+2024-01-31,South America,Widget B,71,25,1775
+2024-01-31,North America,Widget B,152,25,3800
+2024-01-31,South America,Widget A,114,20,2280
+2024-02-01,South America,Widget B,182,25,4550
+2024-02-01,Europe,Widget B,231,25,5775
+2024-02-01,Asia,Widget B,71,25,1775
+2024-02-02,North America,Widget A,69,20,1380
+2024-02-02,South America,Widget A,57,20,1140
+2024-02-02,Asia,Widget A,120,20,2400
+2024-02-03,Asia,Widget A,117,20,2340
+2024-02-04,Asia,Widget A,135,20,2700
+2024-02-05,South America,Widget C,74,30,2220
+2024-02-05,Asia,Widget B,139,25,3475
+2024-02-05,Europe,Widget B,160,25,4000
+2024-02-05,Europe,Widget A,254,20,5080
+2024-02-05,Europe,Widget B,224,25,5600
+2024-02-05,Asia,Widget C,126,30,3780
+2024-02-06,South America,Widget B,224,25,5600
+2024-02-06,North America,Widget B,205,25,5125
+2024-02-06,Asia,Widget B,177,25,4425
+2024-02-06,North America,Widget B,239,25,5975
+2024-02-07,North America,Widget A,64,20,1280
+2024-02-07,South America,Widget A,77,20,1540
+2024-02-07,South America,Widget C,281,30,8430
+2024-02-08,South America,Widget C,234,30,7020
+2024-02-09,Europe,Widget C,206,30,6180
+2024-02-09,Asia,Widget C,193,30,5790
+2024-02-09,North America,Widget A,84,20,1680
+2024-02-10,North America,Widget C,198,30,5940
+2024-02-11,North America,Widget B,121,25,3025
+2024-02-11,North America,Widget A,160,20,3200
+2024-02-11,South America,Widget C,159,30,4770
+2024-02-12,South America,Widget C,144,30,4320
+2024-02-12,North America,Widget C,243,30,7290
+2024-02-13,North America,Widget B,174,25,4350
+2024-02-14,Europe,Widget B,159,25,3975
+2024-02-14,Asia,Widget C,231,30,6930
+2024-02-15,South America,Widget C,193,30,5790
+2024-02-15,Europe,Widget B,148,25,3700
+2024-02-15,Europe,Widget B,145,25,3625
+2024-02-17,Asia,Widget C,296,30,8880
+2024-02-18,North America,Widget C,61,30,1830
+2024-02-18,South America,Widget C,266,30,7980
+2024-02-19,Asia,Widget A,286,20,5720
+2024-02-19,Europe,Widget C,74,30,2220
+2024-02-19,South America,Widget A,241,20,4820
+2024-02-20,South America,Widget A,203,20,4060
+2024-02-20,South America,Widget B,186,25,4650
+2024-02-21,South America,Widget B,95,25,2375
+2024-02-22,Asia,Widget B,200,25,5000
+2024-02-22,Asia,Widget A,234,20,4680
+2024-02-22,Asia,Widget B,284,25,7100
+2024-02-23,North America,Widget B,122,25,3050
+2024-02-23,South America,Widget C,122,30,3660
+2024-02-24,South America,Widget C,280,30,8400
+2024-02-24,Europe,Widget B,110,25,2750
+2024-02-24,Europe,Widget B,226,25,5650
+2024-02-24,South America,Widget C,57,30,1710
+2024-02-26,Asia,Widget B,71,25,1775
+2024-02-26,Asia,Widget B,108,25,2700
+2024-02-26,Asia,Widget B,222,25,5550
+2024-02-26,Asia,Widget A,109,20,2180
+2024-02-28,Asia,Widget B,281,25,7025
+2024-02-29,Europe,Widget C,132,30,3960
+2024-03-01,Europe,Widget B,50,25,1250
+2024-03-02,North America,Widget A,299,20,5980
+2024-03-03,South America,Widget C,191,30,5730
+2024-03-04,South America,Widget C,228,30,6840
+2024-03-04,South America,Widget B,219,25,5475
+2024-03-06,South America,Widget A,268,20,5360
+2024-03-07,South America,Widget C,235,30,7050
+2024-03-07,Europe,Widget C,261,30,7830
+2024-03-10,Europe,Widget C,201,30,6030
+2024-03-10,Asia,Widget A,265,20,5300
+2024-03-10,North America,Widget C,198,30,5940
+2024-03-10,Asia,Widget B,61,25,1525
+2024-03-10,Asia,Widget B,259,25,6475
+2024-03-10,North America,Widget B,220,25,5500
+2024-03-11,South America,Widget B,158,25,3950
+2024-03-11,Asia,Widget A,176,20,3520
+2024-03-12,North America,Widget A,145,20,2900
+2024-03-12,Europe,Widget B,300,25,7500
+2024-03-13,South America,Widget B,236,25,5900
+2024-03-13,Europe,Widget B,288,25,7200
+2024-03-14,South America,Widget A,267,20,5340
+2024-03-15,South America,Widget C,74,30,2220
+2024-03-15,South America,Widget A,225,20,4500
+2024-03-16,Europe,Widget A,247,20,4940
+2024-03-16,North America,Widget B,193,25,4825
+2024-03-16,Europe,Widget A,89,20,1780
+2024-03-17,Europe,Widget B,136,25,3400
+2024-03-17,Europe,Widget B,272,25,6800
+2024-03-17,North America,Widget B,293,25,7325
+2024-03-18,Asia,Widget C,56,30,1680
+2024-03-18,North America,Widget A,181,20,3620
+2024-03-18,Asia,Widget B,187,25,4675
+2024-03-19,Asia,Widget C,196,30,5880
+2024-03-20,North America,Widget B,195,25,4875
+2024-03-20,South America,Widget C,272,30,8160
+2024-03-21,Europe,Widget C,188,30,5640
+2024-03-21,South America,Widget C,174,30,5220
+2024-03-22,Europe,Widget C,265,30,7950
+2024-03-22,South America,Widget B,103,25,2575
+2024-03-23,South America,Widget C,172,30,5160
+2024-03-24,Europe,Widget B,224,25,5600
+2024-03-25,North America,Widget B,295,25,7375
+2024-03-25,South America,Widget B,257,25,6425
+2024-03-25,Europe,Widget C,220,30,6600
+2024-03-25,Europe,Widget A,155,20,3100
+2024-03-26,North America,Widget A,168,20,3360
+2024-03-27,Asia,Widget A,63,20,1260
+2024-03-28,South America,Widget A,295,20,5900
+2024-03-28,South America,Widget A,260,20,5200
+2024-03-28,Asia,Widget C,295,30,8850
+2024-03-30,Asia,Widget A,223,20,4460
+2024-03-30,South America,Widget C,211,30,6330
+2024-03-30,Europe,Widget A,271,20,5420
+2024-03-31,Asia,Widget B,212,25,5300
+2024-03-31,South America,Widget C,279,30,8370
+2024-03-31,South America,Widget C,95,30,2850
+2024-04-01,North America,Widget C,86,30,2580
+2024-04-01,Asia,Widget A,162,20,3240
+2024-04-02,South America,Widget B,125,25,3125
+2024-04-02,North America,Widget B,102,25,2550
+2024-04-03,Asia,Widget B,88,25,2200
+2024-04-03,South America,Widget B,201,25,5025
+2024-04-04,South America,Widget A,121,20,2420
+2024-04-04,Europe,Widget B,261,25,6525
+2024-04-04,Asia,Widget C,136,30,4080
+2024-04-05,Europe,Widget A,90,20,1800
+2024-04-05,Asia,Widget C,187,30,5610
+2024-04-05,North America,Widget C,175,30,5250
+2024-04-06,Asia,Widget C,244,30,7320
+2024-04-06,South America,Widget C,143,30,4290
+2024-04-06,North America,Widget C,115,30,3450
+2024-04-08,Asia,Widget C,245,30,7350
+2024-04-10,South America,Widget B,264,25,6600
+2024-04-10,Asia,Widget C,224,30,6720
+2024-04-11,North America,Widget A,97,20,1940
+2024-04-11,Asia,Widget B,64,25,1600
+2024-04-12,South America,Widget B,230,25,5750
+2024-04-13,North America,Widget B,283,25,7075
+2024-04-13,Asia,Widget A,141,20,2820
+2024-04-13,South America,Widget B,186,25,4650
+2024-04-14,South America,Widget A,271,20,5420
+2024-04-14,South America,Widget C,268,30,8040
+2024-04-15,North America,Widget B,283,25,7075
+2024-04-15,North America,Widget C,214,30,6420
+2024-04-15,Asia,Widget C,64,30,1920
+2024-04-16,Europe,Widget C,109,30,3270
+2024-04-16,North America,Widget C,288,30,8640
+2024-04-17,Asia,Widget B,176,25,4400
+2024-04-17,South America,Widget C,88,30,2640
+2024-04-17,South America,Widget A,241,20,4820
+2024-04-18,South America,Widget C,68,30,2040
+2024-04-18,Europe,Widget B,124,25,3100
+2024-04-18,Asia,Widget B,244,25,6100
+2024-04-18,South America,Widget A,233,20,4660
+2024-04-19,Europe,Widget A,238,20,4760
+2024-04-19,Asia,Widget B,133,25,3325
+2024-04-19,South America,Widget C,237,30,7110
+2024-04-20,Europe,Widget A,130,20,2600
+2024-04-20,Asia,Widget C,261,30,7830
+2024-04-20,Asia,Widget B,231,25,5775
+2024-04-20,Asia,Widget C,248,30,7440
+2024-04-20,Europe,Widget A,174,20,3480
+2024-04-20,Europe,Widget B,272,25,6800
+2024-04-21,Asia,Widget C,281,30,8430
+2024-04-21,Asia,Widget B,220,25,5500
+2024-04-21,Asia,Widget B,72,25,1800
+2024-04-21,Europe,Widget A,215,20,4300
+2024-04-21,Europe,Widget C,57,30,1710
+2024-04-21,Europe,Widget A,269,20,5380
+2024-04-22,Europe,Widget A,71,20,1420
+2024-04-22,Europe,Widget C,153,30,4590
+2024-04-25,Europe,Widget C,51,30,1530
+2024-04-25,North America,Widget C,290,30,8700
+2024-04-26,South America,Widget B,67,25,1675
+2024-04-28,Europe,Widget B,231,25,5775
+2024-04-29,South America,Widget A,181,20,3620
+2024-04-29,South America,Widget B,89,25,2225
+2024-04-29,Europe,Widget C,282,30,8460
+2024-04-29,Asia,Widget C,235,30,7050
+2024-05-02,South America,Widget A,96,20,1920
+2024-05-02,Europe,Widget C,204,30,6120
+2024-05-03,Asia,Widget A,126,20,2520
+2024-05-03,Asia,Widget A,123,20,2460
+2024-05-04,Asia,Widget A,228,20,4560
+2024-05-04,North America,Widget B,86,25,2150
+2024-05-04,Europe,Widget A,255,20,5100
+2024-05-05,South America,Widget C,146,30,4380
+2024-05-05,South America,Widget C,280,30,8400
+2024-05-06,South America,Widget A,198,20,3960
+2024-05-06,Asia,Widget A,55,20,1100
+2024-05-07,Asia,Widget B,290,25,7250
+2024-05-07,South America,Widget C,288,30,8640
+2024-05-07,Europe,Widget B,221,25,5525
+2024-05-07,Asia,Widget A,177,20,3540
+2024-05-08,North America,Widget C,260,30,7800
+2024-05-10,Europe,Widget A,263,20,5260
+2024-05-11,South America,Widget B,171,25,4275
+2024-05-11,North America,Widget C,193,30,5790
+2024-05-11,Europe,Widget C,120,30,3600
+2024-05-11,Asia,Widget B,296,25,7400
+2024-05-11,North America,Widget A,192,20,3840
+2024-05-12,South America,Widget B,196,25,4900
+2024-05-12,South America,Widget B,245,25,6125
+2024-05-13,Asia,Widget C,96,30,2880
+2024-05-13,Europe,Widget B,204,25,5100
+2024-05-14,Europe,Widget A,193,20,3860
+2024-05-14,North America,Widget A,266,20,5320
+2024-05-14,South America,Widget B,174,25,4350
+2024-05-14,South America,Widget C,127,30,3810
+2024-05-15,Asia,Widget B,138,25,3450
+2024-05-15,Europe,Widget C,249,30,7470
+2024-05-15,Asia,Widget B,259,25,6475
+2024-05-16,Europe,Widget A,60,20,1200
+2024-05-16,South America,Widget C,270,30,8100
+2024-05-17,South America,Widget B,271,25,6775
+2024-05-17,South America,Widget A,145,20,2900
+2024-05-17,Asia,Widget B,147,25,3675
+2024-05-17,Europe,Widget B,294,25,7350
+2024-05-18,South America,Widget B,203,25,5075
+2024-05-18,Asia,Widget A,231,20,4620
+2024-05-19,South America,Widget A,93,20,1860
+2024-05-19,Asia,Widget B,108,25,2700
+2024-05-20,Asia,Widget B,165,25,4125
+2024-05-20,Europe,Widget C,232,30,6960
+2024-05-20,North America,Widget B,272,25,6800
+2024-05-20,South America,Widget B,84,25,2100
+2024-05-20,Asia,Widget A,209,20,4180
+2024-05-20,North America,Widget A,99,20,1980
+2024-05-21,North America,Widget A,221,20,4420
+2024-05-22,North America,Widget A,201,20,4020
+2024-05-22,South America,Widget A,91,20,1820
+2024-05-22,Europe,Widget C,87,30,2610
+2024-05-23,North America,Widget C,227,30,6810
+2024-05-24,Europe,Widget A,106,20,2120
+2024-05-24,North America,Widget C,138,30,4140
+2024-05-25,North America,Widget A,204,20,4080
+2024-05-25,South America,Widget A,75,20,1500
+2024-05-25,North America,Widget A,158,20,3160
+2024-05-25,South America,Widget A,120,20,2400
+2024-05-25,North America,Widget B,274,25,6850
+2024-05-25,Asia,Widget C,297,30,8910
+2024-05-26,South America,Widget A,270,20,5400
+2024-05-26,Europe,Widget A,79,20,1580
+2024-05-26,South America,Widget B,183,25,4575
+2024-05-27,Asia,Widget C,253,30,7590
+2024-05-27,South America,Widget A,173,20,3460
+2024-05-27,Europe,Widget A,251,20,5020
+2024-05-27,South America,Widget C,243,30,7290
+2024-05-28,North America,Widget A,230,20,4600
+2024-05-30,Asia,Widget A,178,20,3560
+2024-05-30,Asia,Widget B,156,25,3900
+2024-05-30,Asia,Widget A,151,20,3020
+2024-05-30,Asia,Widget B,152,25,3800
+2024-05-31,South America,Widget B,294,25,7350
+2024-05-31,North America,Widget B,95,25,2375
+2024-05-31,North America,Widget C,287,30,8610
+2024-06-01,Europe,Widget C,242,30,7260
+2024-06-01,Asia,Widget C,198,30,5940
+2024-06-01,North America,Widget B,230,25,5750
+2024-06-02,North America,Widget C,189,30,5670
+2024-06-02,Asia,Widget A,288,20,5760
+2024-06-03,Asia,Widget B,173,25,4325
+2024-06-04,South America,Widget B,50,25,1250
+2024-06-04,South America,Widget A,282,20,5640
+2024-06-04,Asia,Widget C,56,30,1680
+2024-06-05,South America,Widget B,75,25,1875
+2024-06-05,South America,Widget A,248,20,4960
+2024-06-06,South America,Widget C,215,30,6450
+2024-06-07,North America,Widget B,229,25,5725
+2024-06-07,South America,Widget B,176,25,4400
+2024-06-08,Asia,Widget A,270,20,5400
+2024-06-08,Asia,Widget A,60,20,1200
+2024-06-08,Europe,Widget C,66,30,1980
+2024-06-08,South America,Widget A,159,20,3180
+2024-06-09,North America,Widget B,53,25,1325
+2024-06-09,North America,Widget B,270,25,6750
+2024-06-09,Asia,Widget B,94,25,2350
+2024-06-09,Europe,Widget C,247,30,7410
+2024-06-09,North America,Widget B,94,25,2350
+2024-06-09,Asia,Widget B,77,25,1925
+2024-06-10,Asia,Widget B,120,25,3000
+2024-06-12,Asia,Widget A,269,20,5380
+2024-06-14,North America,Widget C,184,30,5520
+2024-06-15,South America,Widget A,130,20,2600
+2024-06-15,Europe,Widget A,269,20,5380
+2024-06-15,South America,Widget C,231,30,6930
+2024-06-17,Europe,Widget B,200,25,5000
+2024-06-20,South America,Widget C,246,30,7380
+2024-06-20,North America,Widget C,68,30,2040
+2024-06-20,Europe,Widget C,235,30,7050
+2024-06-21,South America,Widget A,164,20,3280
+2024-06-21,South America,Widget A,88,20,1760
+2024-06-23,North America,Widget B,79,25,1975
+2024-06-24,North America,Widget A,153,20,3060
+2024-06-25,Europe,Widget B,67,25,1675
+2024-06-26,Europe,Widget A,258,20,5160
+2024-06-28,North America,Widget C,165,30,4950
+2024-06-29,Asia,Widget B,86,25,2150
+2024-06-29,Asia,Widget B,162,25,4050
+2024-06-29,South America,Widget A,126,20,2520
+2024-06-30,Asia,Widget A,62,20,1240
+2024-06-30,South America,Widget C,66,30,1980
+2024-06-30,South America,Widget A,233,20,4660
+2024-06-30,South America,Widget C,228,30,6840
+2024-07-01,Europe,Widget B,151,25,3775
+2024-07-01,Europe,Widget A,246,20,4920
+2024-07-01,Asia,Widget A,284,20,5680
+2024-07-01,Asia,Widget A,141,20,2820
+2024-07-03,South America,Widget C,182,30,5460
+2024-07-03,Asia,Widget A,59,20,1180
+2024-07-03,Europe,Widget C,217,30,6510
+2024-07-03,South America,Widget A,255,20,5100
+2024-07-04,Asia,Widget B,275,25,6875
+2024-07-04,Asia,Widget B,139,25,3475
+2024-07-04,Europe,Widget A,257,20,5140
+2024-07-05,Europe,Widget B,120,25,3000
+2024-07-07,Asia,Widget C,151,30,4530
+2024-07-07,Asia,Widget B,208,25,5200
+2024-07-07,Europe,Widget C,158,30,4740
+2024-07-09,South America,Widget A,148,20,2960
+2024-07-09,Europe,Widget B,170,25,4250
+2024-07-09,North America,Widget A,85,20,1700
+2024-07-09,Europe,Widget C,139,30,4170
+2024-07-10,Europe,Widget A,77,20,1540
+2024-07-11,North America,Widget C,183,30,5490
+2024-07-11,Europe,Widget A,235,20,4700
+2024-07-12,North America,Widget A,215,20,4300
+2024-07-13,South America,Widget B,215,25,5375
+2024-07-14,Europe,Widget C,203,30,6090
+2024-07-14,South America,Widget A,188,20,3760
+2024-07-15,South America,Widget C,168,30,5040
+2024-07-16,North America,Widget B,160,25,4000
+2024-07-16,South America,Widget C,70,30,2100
+2024-07-16,Asia,Widget C,236,30,7080
+2024-07-17,North America,Widget C,160,30,4800
+2024-07-17,Asia,Widget B,125,25,3125
+2024-07-17,North America,Widget A,272,20,5440
+2024-07-17,North America,Widget C,180,30,5400
+2024-07-18,North America,Widget B,263,25,6575
+2024-07-18,Europe,Widget B,219,25,5475
+2024-07-18,North America,Widget C,52,30,1560
+2024-07-19,North America,Widget C,50,30,1500
+2024-07-19,Europe,Widget B,253,25,6325
+2024-07-19,South America,Widget B,52,25,1300
+2024-07-19,Europe,Widget B,89,25,2225
+2024-07-20,South America,Widget B,180,25,4500
+2024-07-20,Europe,Widget A,182,20,3640
+2024-07-22,South America,Widget C,258,30,7740
+2024-07-22,Asia,Widget B,104,25,2600
+2024-07-23,South America,Widget C,112,30,3360
+2024-07-23,North America,Widget B,93,25,2325
+2024-07-24,Europe,Widget C,273,30,8190
+2024-07-24,North America,Widget A,115,20,2300
+2024-07-25,Asia,Widget C,243,30,7290
+2024-07-25,North America,Widget B,204,25,5100
+2024-07-25,Asia,Widget B,269,25,6725
+2024-07-26,North America,Widget A,263,20,5260
+2024-07-26,North America,Widget A,78,20,1560
+2024-07-27,Asia,Widget C,127,30,3810
+2024-07-27,North America,Widget C,69,30,2070
+2024-07-27,South America,Widget A,252,20,5040
+2024-07-27,South America,Widget A,98,20,1960
+2024-07-28,Asia,Widget A,129,20,2580
+2024-07-28,North America,Widget C,163,30,4890
+2024-07-28,North America,Widget B,137,25,3425
+2024-07-28,South America,Widget C,292,30,8760
+2024-07-28,North America,Widget C,101,30,3030
+2024-07-29,North America,Widget A,139,20,2780
+2024-07-30,Asia,Widget C,256,30,7680
+2024-07-30,Asia,Widget A,112,20,2240
+2024-07-31,Asia,Widget A,60,20,1200
+2024-07-31,Asia,Widget C,187,30,5610
+2024-08-01,North America,Widget B,264,25,6600
+2024-08-01,South America,Widget C,244,30,7320
+2024-08-02,North America,Widget A,163,20,3260
+2024-08-02,Asia,Widget A,126,20,2520
+2024-08-03,Europe,Widget A,168,20,3360
+2024-08-03,North America,Widget B,59,25,1475
+2024-08-04,Asia,Widget B,216,25,5400
+2024-08-06,North America,Widget A,251,20,5020
+2024-08-07,South America,Widget C,274,30,8220
+2024-08-09,Europe,Widget A,236,20,4720
+2024-08-10,Asia,Widget A,114,20,2280
+2024-08-10,North America,Widget A,88,20,1760
+2024-08-10,North America,Widget C,289,30,8670
+2024-08-12,Europe,Widget A,167,20,3340
+2024-08-14,Asia,Widget B,205,25,5125
+2024-08-15,North America,Widget C,210,30,6300
+2024-08-15,South America,Widget B,230,25,5750
+2024-08-16,Europe,Widget C,296,30,8880
+2024-08-16,Asia,Widget C,157,30,4710
+2024-08-17,South America,Widget A,238,20,4760
+2024-08-18,Europe,Widget B,240,25,6000
+2024-08-18,Asia,Widget A,76,20,1520
+2024-08-20,North America,Widget B,191,25,4775
+2024-08-21,Asia,Widget C,97,30,2910
+2024-08-23,Asia,Widget C,285,30,8550
+2024-08-23,Asia,Widget B,53,25,1325
+2024-08-23,South America,Widget B,195,25,4875
+2024-08-24,North America,Widget B,153,25,3825
+2024-08-24,Asia,Widget C,151,30,4530
+2024-08-26,North America,Widget A,291,20,5820
+2024-08-26,Asia,Widget A,103,20,2060
+2024-08-26,Europe,Widget B,235,25,5875
+2024-08-26,Europe,Widget A,125,20,2500
+2024-08-27,Asia,Widget C,276,30,8280
+2024-08-28,North America,Widget B,68,25,1700
+2024-08-28,Europe,Widget B,125,25,3125
+2024-08-29,South America,Widget B,251,25,6275
+2024-08-29,North America,Widget A,53,20,1060
+2024-08-29,Asia,Widget C,162,30,4860
+2024-08-30,South America,Widget B,287,25,7175
+2024-08-30,Europe,Widget A,225,20,4500
+2024-08-30,North America,Widget C,161,30,4830
+2024-08-31,North America,Widget A,72,20,1440
+2024-08-31,Asia,Widget C,97,30,2910
+2024-08-31,North America,Widget C,238,30,7140
+2024-09-01,Europe,Widget A,252,20,5040
+2024-09-01,Europe,Widget A,87,20,1740
+2024-09-01,Europe,Widget C,182,30,5460
+2024-09-01,North America,Widget B,76,25,1900
+2024-09-02,Europe,Widget A,209,20,4180
+2024-09-03,South America,Widget A,162,20,3240
+2024-09-03,Europe,Widget B,250,25,6250
+2024-09-04,North America,Widget C,275,30,8250
+2024-09-04,South America,Widget C,144,30,4320
+2024-09-04,Asia,Widget A,243,20,4860
+2024-09-04,Asia,Widget A,299,20,5980
+2024-09-04,Europe,Widget A,219,20,4380
+2024-09-04,North America,Widget C,233,30,6990
+2024-09-04,Asia,Widget C,91,30,2730
+2024-09-04,Europe,Widget B,211,25,5275
+2024-09-06,North America,Widget A,202,20,4040
+2024-09-06,Europe,Widget B,134,25,3350
+2024-09-07,North America,Widget B,144,25,3600
+2024-09-07,North America,Widget A,178,20,3560
+2024-09-07,South America,Widget B,222,25,5550
+2024-09-07,South America,Widget A,297,20,5940
+2024-09-07,Europe,Widget C,138,30,4140
+2024-09-08,Asia,Widget C,244,30,7320
+2024-09-11,Europe,Widget B,87,25,2175
+2024-09-11,Europe,Widget A,273,20,5460
+2024-09-11,Europe,Widget A,65,20,1300
+2024-09-13,Asia,Widget A,119,20,2380
+2024-09-14,North America,Widget C,216,30,6480
+2024-09-14,South America,Widget A,177,20,3540
+2024-09-14,South America,Widget A,296,20,5920
+2024-09-14,Europe,Widget B,246,25,6150
+2024-09-14,Asia,Widget C,213,30,6390
+2024-09-15,Asia,Widget A,127,20,2540
+2024-09-15,North America,Widget B,169,25,4225
+2024-09-15,South America,Widget B,297,25,7425
+2024-09-15,Asia,Widget B,208,25,5200
+2024-09-16,South America,Widget B,58,25,1450
+2024-09-16,Europe,Widget B,125,25,3125
+2024-09-16,North America,Widget B,179,25,4475
+2024-09-17,North America,Widget B,229,25,5725
+2024-09-17,North America,Widget C,58,30,1740
+2024-09-18,South America,Widget B,269,25,6725
+2024-09-19,North America,Widget C,179,30,5370
+2024-09-19,Europe,Widget C,180,30,5400
+2024-09-20,Europe,Widget C,55,30,1650
+2024-09-20,South America,Widget A,223,20,4460
+2024-09-21,South America,Widget B,61,25,1525
+2024-09-22,Asia,Widget C,81,30,2430
+2024-09-23,Europe,Widget C,230,30,6900
+2024-09-24,North America,Widget A,71,20,1420
+2024-09-25,Asia,Widget A,290,20,5800
+2024-09-25,Asia,Widget A,176,20,3520
+2024-09-25,Europe,Widget A,224,20,4480
+2024-09-25,North America,Widget B,240,25,6000
+2024-09-25,Europe,Widget B,257,25,6425
+2024-09-26,South America,Widget A,81,20,1620
+2024-09-27,Europe,Widget A,81,20,1620
+2024-09-28,North America,Widget A,213,20,4260
+2024-09-29,North America,Widget C,288,30,8640
+2024-09-29,Europe,Widget C,163,30,4890
+2024-09-29,Asia,Widget B,256,25,6400
+2024-09-30,Europe,Widget A,274,20,5480
+2024-09-30,Asia,Widget C,231,30,6930
+2024-10-01,Asia,Widget C,66,30,1980
+2024-10-01,North America,Widget A,101,20,2020
+2024-10-01,South America,Widget A,237,20,4740
+2024-10-01,Europe,Widget A,53,20,1060
+2024-10-02,North America,Widget C,89,30,2670
+2024-10-02,Asia,Widget C,210,30,6300
+2024-10-02,North America,Widget A,103,20,2060
+2024-10-03,Asia,Widget A,67,20,1340
+2024-10-03,Asia,Widget C,156,30,4680
+2024-10-04,North America,Widget A,206,20,4120
+2024-10-04,South America,Widget C,166,30,4980
+2024-10-05,Asia,Widget B,203,25,5075
+2024-10-06,Asia,Widget A,296,20,5920
+2024-10-06,South America,Widget C,76,30,2280
+2024-10-06,Europe,Widget C,120,30,3600
+2024-10-07,Europe,Widget C,79,30,2370
+2024-10-07,Europe,Widget C,213,30,6390
+2024-10-07,South America,Widget A,87,20,1740
+2024-10-07,South America,Widget A,73,20,1460
+2024-10-08,South America,Widget C,251,30,7530
+2024-10-09,South America,Widget C,246,30,7380
+2024-10-09,South America,Widget C,174,30,5220
+2024-10-09,South America,Widget C,153,30,4590
+2024-10-09,Asia,Widget C,236,30,7080
+2024-10-10,Europe,Widget A,239,20,4780
+2024-10-11,North America,Widget A,286,20,5720
+2024-10-13,Europe,Widget A,286,20,5720
+2024-10-14,North America,Widget C,238,30,7140
+2024-10-14,South America,Widget B,68,25,1700
+2024-10-15,Asia,Widget B,145,25,3625
+2024-10-15,North America,Widget B,227,25,5675
+2024-10-16,North America,Widget A,102,20,2040
+2024-10-16,Europe,Widget C,105,30,3150
+2024-10-17,Asia,Widget C,62,30,1860
+2024-10-17,North America,Widget C,299,30,8970
+2024-10-17,North America,Widget A,73,20,1460
+2024-10-18,South America,Widget C,211,30,6330
+2024-10-18,South America,Widget A,296,20,5920
+2024-10-19,Asia,Widget B,215,25,5375
+2024-10-20,North America,Widget A,257,20,5140
+2024-10-20,Europe,Widget B,277,25,6925
+2024-10-20,South America,Widget C,249,30,7470
+2024-10-20,North America,Widget C,79,30,2370
+2024-10-20,North America,Widget A,181,20,3620
+2024-10-21,Europe,Widget C,296,30,8880
+2024-10-21,Europe,Widget A,212,20,4240
+2024-10-21,Europe,Widget C,273,30,8190
+2024-10-21,Asia,Widget C,217,30,6510
+2024-10-22,Europe,Widget B,246,25,6150
+2024-10-22,Asia,Widget C,168,30,5040
+2024-10-23,Europe,Widget B,240,25,6000
+2024-10-23,Asia,Widget C,200,30,6000
+2024-10-23,Europe,Widget A,193,20,3860
+2024-10-24,South America,Widget C,189,30,5670
+2024-10-24,South America,Widget C,240,30,7200
+2024-10-24,South America,Widget B,289,25,7225
+2024-10-25,North America,Widget C,287,30,8610
+2024-10-25,North America,Widget A,186,20,3720
+2024-10-25,South America,Widget A,92,20,1840
+2024-10-25,Europe,Widget B,120,25,3000
+2024-10-25,South America,Widget A,77,20,1540
+2024-10-25,North America,Widget A,108,20,2160
+2024-10-25,Europe,Widget C,165,30,4950
+2024-10-26,South America,Widget A,164,20,3280
+2024-10-26,Europe,Widget A,149,20,2980
+2024-10-26,North America,Widget C,273,30,8190
+2024-10-27,Europe,Widget B,92,25,2300
+2024-10-27,Asia,Widget C,167,30,5010
+2024-10-27,North America,Widget C,216,30,6480
+2024-10-27,Europe,Widget B,227,25,5675
+2024-10-28,South America,Widget A,262,20,5240
+2024-10-29,North America,Widget C,57,30,1710
+2024-10-30,North America,Widget C,245,30,7350
+2024-10-31,Asia,Widget B,209,25,5225
+2024-10-31,North America,Widget C,121,30,3630
+2024-10-31,Europe,Widget C,154,30,4620
+2024-10-31,South America,Widget B,165,25,4125
+2024-11-02,Asia,Widget C,213,30,6390
+2024-11-02,Europe,Widget C,130,30,3900
+2024-11-02,North America,Widget B,221,25,5525
+2024-11-02,South America,Widget C,118,30,3540
+2024-11-03,North America,Widget A,167,20,3340
+2024-11-03,Europe,Widget B,148,25,3700
+2024-11-03,Europe,Widget C,142,30,4260
+2024-11-04,South America,Widget B,161,25,4025
+2024-11-05,Asia,Widget B,137,25,3425
+2024-11-05,Europe,Widget A,239,20,4780
+2024-11-06,Europe,Widget A,152,20,3040
+2024-11-06,South America,Widget B,286,25,7150
+2024-11-06,South America,Widget B,89,25,2225
+2024-11-06,Europe,Widget A,298,20,5960
+2024-11-07,South America,Widget C,241,30,7230
+2024-11-07,North America,Widget B,53,25,1325
+2024-11-07,North America,Widget C,186,30,5580
+2024-11-08,South America,Widget B,202,25,5050
+2024-11-11,Europe,Widget C,176,30,5280
+2024-11-12,Asia,Widget C,205,30,6150
+2024-11-12,North America,Widget A,104,20,2080
+2024-11-12,Asia,Widget C,150,30,4500
+2024-11-12,South America,Widget B,91,25,2275
+2024-11-12,Asia,Widget A,88,20,1760
+2024-11-13,Asia,Widget A,221,20,4420
+2024-11-14,Asia,Widget A,177,20,3540
+2024-11-14,North America,Widget A,216,20,4320
+2024-11-14,Asia,Widget A,168,20,3360
+2024-11-15,South America,Widget C,294,30,8820
+2024-11-15,Europe,Widget A,72,20,1440
+2024-11-15,Europe,Widget A,67,20,1340
+2024-11-15,South America,Widget A,134,20,2680
+2024-11-15,Asia,Widget A,81,20,1620
+2024-11-16,Asia,Widget C,147,30,4410
+2024-11-17,Asia,Widget A,124,20,2480
+2024-11-18,Europe,Widget B,126,25,3150
+2024-11-18,South America,Widget B,107,25,2675
+2024-11-19,Asia,Widget A,265,20,5300
+2024-11-19,South America,Widget A,151,20,3020
+2024-11-19,Asia,Widget B,130,25,3250
+2024-11-19,North America,Widget C,88,30,2640
+2024-11-19,North America,Widget A,234,20,4680
+2024-11-20,Europe,Widget A,262,20,5240
+2024-11-20,Asia,Widget B,96,25,2400
+2024-11-21,North America,Widget C,222,30,6660
+2024-11-21,South America,Widget A,209,20,4180
+2024-11-21,North America,Widget A,192,20,3840
+2024-11-22,South America,Widget A,136,20,2720
+2024-11-22,Asia,Widget A,81,20,1620
+2024-11-22,Asia,Widget A,65,20,1300
+2024-11-22,North America,Widget A,152,20,3040
+2024-11-23,North America,Widget A,93,20,1860
+2024-11-23,North America,Widget B,148,25,3700
+2024-11-25,Asia,Widget C,79,30,2370
+2024-11-26,North America,Widget A,66,20,1320
+2024-11-26,Asia,Widget A,76,20,1520
+2024-11-27,North America,Widget C,246,30,7380
+2024-11-27,Europe,Widget A,283,20,5660
+2024-11-28,Europe,Widget C,106,30,3180
+2024-11-28,Europe,Widget A,188,20,3760
+2024-11-29,Asia,Widget C,142,30,4260
+2024-11-29,Europe,Widget B,269,25,6725
+2024-11-29,North America,Widget A,190,20,3800
+2024-11-29,Asia,Widget A,149,20,2980
+2024-11-30,Asia,Widget A,272,20,5440
+2024-11-30,Europe,Widget C,300,30,9000
+2024-11-30,South America,Widget B,259,25,6475
+2024-12-01,North America,Widget B,255,25,6375
+2024-12-01,Europe,Widget B,110,25,2750
+2024-12-02,Europe,Widget A,75,20,1500
+2024-12-02,Europe,Widget A,50,20,1000
+2024-12-03,Europe,Widget A,180,20,3600
+2024-12-04,Asia,Widget A,184,20,3680
+2024-12-04,Europe,Widget A,246,20,4920
+2024-12-04,South America,Widget A,80,20,1600
+2024-12-05,Europe,Widget A,269,20,5380
+2024-12-05,North America,Widget A,183,20,3660
+2024-12-06,Asia,Widget B,199,25,4975
+2024-12-07,Asia,Widget C,266,30,7980
+2024-12-09,North America,Widget C,199,30,5970
+2024-12-09,North America,Widget B,200,25,5000
+2024-12-09,Asia,Widget A,293,20,5860
+2024-12-10,Asia,Widget C,95,30,2850
+2024-12-10,South America,Widget C,199,30,5970
+2024-12-10,South America,Widget A,81,20,1620
+2024-12-10,North America,Widget C,257,30,7710
+2024-12-10,South America,Widget A,269,20,5380
+2024-12-10,North America,Widget C,293,30,8790
+2024-12-11,Asia,Widget A,172,20,3440
+2024-12-11,South America,Widget A,183,20,3660
+2024-12-11,Europe,Widget C,131,30,3930
+2024-12-12,Europe,Widget C,78,30,2340
+2024-12-13,South America,Widget A,215,20,4300
+2024-12-14,North America,Widget B,255,25,6375
+2024-12-14,Asia,Widget C,131,30,3930
+2024-12-14,Asia,Widget A,50,20,1000
+2024-12-14,South America,Widget A,109,20,2180
+2024-12-15,South America,Widget C,124,30,3720
+2024-12-17,Asia,Widget B,251,25,6275
+2024-12-18,North America,Widget B,80,25,2000
+2024-12-19,Asia,Widget A,195,20,3900
+2024-12-20,South America,Widget B,94,25,2350
+2024-12-20,North America,Widget C,157,30,4710
+2024-12-21,Europe,Widget A,181,20,3620
+2024-12-22,Asia,Widget C,201,30,6030
+2024-12-23,Europe,Widget A,241,20,4820
+2024-12-24,Asia,Widget B,220,25,5500
+2024-12-24,North America,Widget B,179,25,4475
+2024-12-25,Europe,Widget B,133,25,3325
+2024-12-25,Europe,Widget B,249,25,6225
+2024-12-26,South America,Widget C,79,30,2370
+2024-12-26,Europe,Widget B,107,25,2675
+2024-12-26,South America,Widget B,226,25,5650
+2024-12-27,North America,Widget A,140,20,2800
+2024-12-27,Asia,Widget A,211,20,4220
+2024-12-27,North America,Widget A,81,20,1620
+2024-12-27,Europe,Widget C,185,30,5550
+2024-12-27,North America,Widget A,282,20,5640
+2024-12-27,North America,Widget B,58,25,1450
+2024-12-27,Europe,Widget C,85,30,2550
+2024-12-27,Asia,Widget C,221,30,6630
+2024-12-28,Asia,Widget B,173,25,4325
+2024-12-29,South America,Widget B,238,25,5950
+2024-12-29,Asia,Widget C,241,30,7230
+2024-12-30,North America,Widget B,62,25,1550
+2024-12-30,Europe,Widget B,233,25,5825
+2024-12-30,Asia,Widget A,244,20,4880
+2024-12-31,Europe,Widget B,207,25,5175
+2025-01-01,Europe,Widget A,222,20,4440
+2025-01-01,Europe,Widget C,155,30,4650
+2025-01-01,Asia,Widget A,251,20,5020
+2025-01-02,Europe,Widget A,139,20,2780
+2025-01-03,Europe,Widget A,298,20,5960
+2025-01-03,Asia,Widget C,123,30,3690
+2025-01-03,Europe,Widget B,168,25,4200
+2025-01-03,Asia,Widget A,253,20,5060
+2025-01-04,Asia,Widget B,160,25,4000
+2025-01-04,Asia,Widget A,244,20,4880
+2025-01-04,Asia,Widget B,101,25,2525
+2025-01-05,South America,Widget B,250,25,6250
+2025-01-05,Asia,Widget C,194,30,5820
+2025-01-05,North America,Widget A,60,20,1200
+2025-01-05,Europe,Widget A,194,20,3880
+2025-01-05,Europe,Widget A,242,20,4840
+2025-01-07,North America,Widget C,165,30,4950
+2025-01-07,North America,Widget A,258,20,5160
+2025-01-08,South America,Widget A,128,20,2560
+2025-01-08,North America,Widget B,161,25,4025
+2025-01-08,South America,Widget A,51,20,1020
+2025-01-08,Asia,Widget C,249,30,7470
+2025-01-08,South America,Widget A,113,20,2260
+2025-01-08,Asia,Widget C,286,30,8580
+2025-01-09,Europe,Widget A,163,20,3260
+2025-01-10,South America,Widget A,153,20,3060
+2025-01-10,North America,Widget C,109,30,3270
+2025-01-12,South America,Widget B,278,25,6950
+2025-01-13,South America,Widget C,278,30,8340
+2025-01-14,South America,Widget C,130,30,3900
+2025-01-14,Europe,Widget B,80,25,2000
+2025-01-15,Europe,Widget A,113,20,2260
+2025-01-16,South America,Widget A,108,20,2160
+2025-01-17,South America,Widget B,67,25,1675
+2025-01-17,Europe,Widget C,252,30,7560
+2025-01-17,North America,Widget C,288,30,8640
+2025-01-17,Asia,Widget A,134,20,2680
+2025-01-18,Asia,Widget B,157,25,3925
+2025-01-18,Europe,Widget C,265,30,7950
+2025-01-18,North America,Widget C,285,30,8550
+2025-01-18,North America,Widget C,217,30,6510
+2025-01-19,South America,Widget A,59,20,1180
+2025-01-19,Asia,Widget A,223,20,4460
+2025-01-19,Asia,Widget A,280,20,5600
+2025-01-20,Asia,Widget C,249,30,7470
+2025-01-20,Europe,Widget A,239,20,4780
+2025-01-20,Asia,Widget A,196,20,3920
+2025-01-20,Asia,Widget C,130,30,3900
+2025-01-21,South America,Widget A,200,20,4000
+2025-01-21,South America,Widget C,298,30,8940
+2025-01-21,Europe,Widget B,76,25,1900
+2025-01-22,Europe,Widget C,196,30,5880
+2025-01-22,Asia,Widget A,168,20,3360
+2025-01-23,North America,Widget A,112,20,2240
+2025-01-23,Europe,Widget B,264,25,6600
+2025-01-24,South America,Widget B,132,25,3300
+2025-01-27,Asia,Widget A,224,20,4480
+2025-01-27,Asia,Widget A,295,20,5900
+2025-01-27,North America,Widget B,84,25,2100
+2025-01-28,North America,Widget A,276,20,5520
+2025-01-28,Europe,Widget B,99,25,2475
+2025-01-28,Europe,Widget C,207,30,6210
+2025-01-28,South America,Widget B,239,25,5975
+2025-01-28,North America,Widget A,61,20,1220
+2025-01-28,South America,Widget A,273,20,5460
+2025-01-30,North America,Widget C,171,30,5130
+2025-01-30,South America,Widget C,56,30,1680
+2025-01-30,Europe,Widget A,141,20,2820
+2025-01-31,Europe,Widget B,264,25,6600
+2025-01-31,Europe,Widget B,93,25,2325
+2025-01-31,South America,Widget A,210,20,4200
+2025-02-01,South America,Widget B,230,25,5750
+2025-02-01,South America,Widget A,176,20,3520
+2025-02-02,North America,Widget C,288,30,8640
+2025-02-02,Asia,Widget A,111,20,2220
+2025-02-02,Europe,Widget C,296,30,8880
+2025-02-02,Asia,Widget B,267,25,6675
+2025-02-02,Asia,Widget C,279,30,8370
+2025-02-05,North America,Widget A,148,20,2960
+2025-02-05,Asia,Widget B,159,25,3975
+2025-02-05,North America,Widget B,257,25,6425
+2025-02-05,Europe,Widget A,227,20,4540
+2025-02-07,South America,Widget C,101,30,3030
+2025-02-07,Asia,Widget A,178,20,3560
+2025-02-07,South America,Widget C,196,30,5880
+2025-02-07,Europe,Widget C,232,30,6960
+2025-02-07,South America,Widget C,204,30,6120
+2025-02-08,North America,Widget A,182,20,3640
+2025-02-09,North America,Widget B,254,25,6350
+2025-02-09,Europe,Widget C,138,30,4140
+2025-02-09,South America,Widget B,123,25,3075
+2025-02-10,South America,Widget B,132,25,3300
+2025-02-10,Asia,Widget A,131,20,2620
+2025-02-10,North America,Widget C,69,30,2070
+2025-02-11,South America,Widget C,63,30,1890
+2025-02-11,Europe,Widget C,261,30,7830
+2025-02-12,Asia,Widget C,181,30,5430
+2025-02-12,North America,Widget C,75,30,2250
+2025-02-12,South America,Widget C,293,30,8790
+2025-02-13,North America,Widget A,293,20,5860
+2025-02-14,South America,Widget A,269,20,5380
+2025-02-14,Europe,Widget B,212,25,5300
+2025-02-14,Europe,Widget B,197,25,4925
+2025-02-14,South America,Widget B,62,25,1550
+2025-02-14,North America,Widget B,228,25,5700
+2025-02-14,Asia,Widget A,105,20,2100
+2025-02-15,Asia,Widget A,253,20,5060
+2025-02-15,Europe,Widget A,138,20,2760
+2025-02-16,North America,Widget C,95,30,2850
+2025-02-16,Europe,Widget B,248,25,6200
+2025-02-17,Europe,Widget C,127,30,3810
+2025-02-17,South America,Widget A,230,20,4600
+2025-02-17,South America,Widget B,195,25,4875
+2025-02-17,North America,Widget B,155,25,3875
+2025-02-17,Asia,Widget A,181,20,3620
+2025-02-18,Europe,Widget C,237,30,7110
+2025-02-18,Europe,Widget C,57,30,1710
+2025-02-19,Europe,Widget A,138,20,2760
+2025-02-20,Europe,Widget C,256,30,7680
+2025-02-21,Asia,Widget C,66,30,1980
+2025-02-21,South America,Widget B,169,25,4225
+2025-02-22,Europe,Widget B,280,25,7000
+2025-02-23,Europe,Widget B,267,25,6675
+2025-02-23,South America,Widget B,97,25,2425
+2025-02-23,Asia,Widget B,234,25,5850
+2025-02-25,North America,Widget A,291,20,5820
+2025-02-25,North America,Widget C,193,30,5790
+2025-02-25,Europe,Widget A,132,20,2640
+2025-02-27,Europe,Widget A,167,20,3340
+2025-02-28,South America,Widget B,191,25,4775
+2025-03-01,Europe,Widget B,178,25,4450
+2025-03-02,Asia,Widget C,138,30,4140
+2025-03-02,South America,Widget A,57,20,1140
+2025-03-02,North America,Widget B,257,25,6425
+2025-03-03,South America,Widget A,231,20,4620
+2025-03-04,Europe,Widget B,132,25,3300
+2025-03-04,North America,Widget A,135,20,2700
+2025-03-04,Asia,Widget A,223,20,4460
+2025-03-04,Europe,Widget C,231,30,6930
+2025-03-05,Europe,Widget A,245,20,4900
+2025-03-05,Europe,Widget B,107,25,2675
+2025-03-05,South America,Widget C,62,30,1860
+2025-03-06,North America,Widget A,174,20,3480
+2025-03-06,Asia,Widget A,109,20,2180
+2025-03-06,Asia,Widget C,296,30,8880
+2025-03-07,Europe,Widget B,55,25,1375
+2025-03-08,South America,Widget C,125,30,3750
+2025-03-08,Europe,Widget B,217,25,5425
+2025-03-08,Asia,Widget C,266,30,7980
+2025-03-08,Asia,Widget C,139,30,4170
+2025-03-08,North America,Widget A,75,20,1500
+2025-03-08,Europe,Widget C,150,30,4500
+2025-03-09,North America,Widget C,267,30,8010
+2025-03-10,South America,Widget A,167,20,3340
+2025-03-10,South America,Widget A,85,20,1700
+2025-03-10,Asia,Widget A,214,20,4280
+2025-03-10,South America,Widget B,249,25,6225
+2025-03-10,North America,Widget B,165,25,4125
+2025-03-11,Europe,Widget B,261,25,6525
+2025-03-11,Europe,Widget C,226,30,6780
+2025-03-12,South America,Widget B,265,25,6625
+2025-03-12,North America,Widget C,144,30,4320
+2025-03-13,South America,Widget B,172,25,4300
+2025-03-13,Europe,Widget A,53,20,1060
+2025-03-13,South America,Widget A,160,20,3200
+2025-03-14,Asia,Widget C,183,30,5490
+2025-03-14,Asia,Widget A,119,20,2380
+2025-03-15,South America,Widget C,290,30,8700
+2025-03-15,North America,Widget B,237,25,5925
+2025-03-15,South America,Widget A,109,20,2180
+2025-03-15,Europe,Widget B,203,25,5075
+2025-03-15,Europe,Widget C,280,30,8400
+2025-03-15,South America,Widget C,103,30,3090
+2025-03-15,Europe,Widget B,127,25,3175
+2025-03-16,North America,Widget A,99,20,1980
+2025-03-16,North America,Widget A,218,20,4360
+2025-03-16,Asia,Widget A,241,20,4820
+2025-03-16,Europe,Widget C,222,30,6660
+2025-03-16,Europe,Widget B,288,25,7200
+2025-03-17,Europe,Widget A,251,20,5020
+2025-03-17,South America,Widget C,73,30,2190
+2025-03-17,Europe,Widget A,232,20,4640
+2025-03-21,Europe,Widget C,239,30,7170
+2025-03-21,Europe,Widget A,239,20,4780
+2025-03-22,Europe,Widget B,71,25,1775
+2025-03-23,South America,Widget A,192,20,3840
+2025-03-23,Europe,Widget B,193,25,4825
+2025-03-23,Europe,Widget B,244,25,6100
+2025-03-24,Europe,Widget C,260,30,7800
+2025-03-24,South America,Widget A,130,20,2600
+2025-03-24,South America,Widget C,213,30,6390
+2025-03-25,Europe,Widget B,202,25,5050
+2025-03-25,Europe,Widget C,144,30,4320
+2025-03-25,North America,Widget A,93,20,1860
+2025-03-25,Europe,Widget A,107,20,2140
+2025-03-25,South America,Widget C,55,30,1650
+2025-03-25,Europe,Widget A,295,20,5900
+2025-03-26,Asia,Widget B,254,25,6350
+2025-03-26,North America,Widget A,86,20,1720
+2025-03-26,South America,Widget A,296,20,5920
+2025-03-26,Asia,Widget A,194,20,3880
+2025-03-27,South America,Widget C,296,30,8880
+2025-03-27,South America,Widget B,95,25,2375
+2025-03-27,North America,Widget B,250,25,6250
+2025-03-28,Europe,Widget A,152,20,3040
+2025-03-29,Asia,Widget C,119,30,3570
+2025-03-29,North America,Widget C,59,30,1770
+2025-03-29,South America,Widget A,231,20,4620
+2025-03-30,Europe,Widget A,260,20,5200
+2025-03-30,South America,Widget B,107,25,2675
+2025-03-31,North America,Widget C,61,30,1830
+2025-03-31,North America,Widget B,210,25,5250
+2025-04-01,South America,Widget C,271,30,8130
+2025-04-01,Asia,Widget A,181,20,3620
+2025-04-01,North America,Widget C,139,30,4170
+2025-04-02,Europe,Widget A,213,20,4260
+2025-04-02,North America,Widget C,203,30,6090
+2025-04-02,Europe,Widget C,257,30,7710
+2025-04-02,Asia,Widget A,300,20,6000
+2025-04-02,North America,Widget C,71,30,2130
+2025-04-03,Asia,Widget A,64,20,1280
+2025-04-03,South America,Widget C,194,30,5820
+2025-04-04,South America,Widget B,232,25,5800
+2025-04-04,South America,Widget B,161,25,4025
+2025-04-04,Asia,Widget A,218,20,4360
+2025-04-04,Asia,Widget B,270,25,6750
+2025-04-04,Asia,Widget C,282,30,8460
+2025-04-05,North America,Widget B,187,25,4675
+2025-04-06,Europe,Widget B,201,25,5025
+2025-04-06,Europe,Widget A,116,20,2320
+2025-04-06,Asia,Widget B,240,25,6000
+2025-04-07,South America,Widget B,261,25,6525
+2025-04-07,South America,Widget B,274,25,6850
+2025-04-07,Asia,Widget A,61,20,1220
+2025-04-08,Europe,Widget A,247,20,4940
+2025-04-08,Europe,Widget A,207,20,4140
+2025-04-08,North America,Widget C,196,30,5880
+2025-04-08,Asia,Widget B,259,25,6475
+2025-04-09,South America,Widget B,77,25,1925
+2025-04-09,North America,Widget C,168,30,5040
+2025-04-09,North America,Widget B,114,25,2850
+2025-04-10,Asia,Widget C,104,30,3120
+2025-04-10,South America,Widget A,210,20,4200
+2025-04-10,South America,Widget A,189,20,3780
+2025-04-10,North America,Widget B,287,25,7175
+2025-04-11,Europe,Widget A,179,20,3580
+2025-04-11,Asia,Widget B,218,25,5450
+2025-04-12,Asia,Widget B,53,25,1325
+2025-04-12,South America,Widget A,98,20,1960
+2025-04-13,Europe,Widget B,103,25,2575
+2025-04-13,Asia,Widget B,110,25,2750
+2025-04-14,South America,Widget A,229,20,4580
+2025-04-14,Europe,Widget C,98,30,2940
+2025-04-15,Europe,Widget A,98,20,1960
+2025-04-15,South America,Widget A,197,20,3940
+2025-04-16,Europe,Widget B,211,25,5275
+2025-04-16,Asia,Widget A,125,20,2500
+2025-04-17,Asia,Widget B,195,25,4875
+2025-04-17,North America,Widget C,63,30,1890
+2025-04-17,South America,Widget A,300,20,6000
+2025-04-18,North America,Widget B,284,25,7100
+2025-04-18,North America,Widget C,185,30,5550
+2025-04-19,Asia,Widget B,106,25,2650
+2025-04-19,South America,Widget B,137,25,3425
+2025-04-19,South America,Widget C,106,30,3180
+2025-04-19,South America,Widget A,125,20,2500
+2025-04-19,South America,Widget A,142,20,2840
+2025-04-20,South America,Widget C,132,30,3960
+2025-04-21,North America,Widget B,64,25,1600
+2025-04-21,South America,Widget C,70,30,2100
+2025-04-21,South America,Widget A,261,20,5220
+2025-04-22,South America,Widget B,194,25,4850
+2025-04-22,Asia,Widget A,178,20,3560
+2025-04-23,South America,Widget A,146,20,2920
+2025-04-24,North America,Widget A,74,20,1480
+2025-04-24,Asia,Widget A,297,20,5940
+2025-04-26,South America,Widget A,220,20,4400
+2025-04-26,North America,Widget B,155,25,3875
+2025-04-27,Europe,Widget B,168,25,4200
+2025-04-28,Asia,Widget B,233,25,5825
+2025-04-28,Europe,Widget B,166,25,4150
+2025-04-28,South America,Widget B,67,25,1675
+2025-04-29,South America,Widget C,51,30,1530
+2025-04-30,Europe,Widget C,178,30,5340
+2025-04-30,South America,Widget A,73,20,1460
+2025-05-01,Asia,Widget C,226,30,6780
+2025-05-01,South America,Widget C,125,30,3750
+2025-05-01,Europe,Widget B,142,25,3550
+2025-05-02,Europe,Widget C,65,30,1950
+2025-05-02,North America,Widget C,148,30,4440
+2025-05-02,North America,Widget A,188,20,3760
+2025-05-03,Europe,Widget A,279,20,5580
+2025-05-03,North America,Widget B,64,25,1600
+2025-05-03,Europe,Widget C,226,30,6780
+2025-05-03,North America,Widget C,181,30,5430
+2025-05-04,Europe,Widget C,217,30,6510
+2025-05-05,Asia,Widget C,91,30,2730
+2025-05-06,South America,Widget A,111,20,2220
+2025-05-06,North America,Widget C,81,30,2430
+2025-05-07,South America,Widget B,62,25,1550
+2025-05-07,North America,Widget B,99,25,2475
+2025-05-08,South America,Widget B,91,25,2275
+2025-05-10,Asia,Widget B,262,25,6550
+2025-05-10,North America,Widget C,94,30,2820
+2025-05-10,Asia,Widget C,286,30,8580
+2025-05-10,North America,Widget C,68,30,2040
+2025-05-12,Asia,Widget A,161,20,3220
+2025-05-12,North America,Widget A,115,20,2300
+2025-05-13,Europe,Widget B,64,25,1600
+2025-05-13,Europe,Widget A,278,20,5560
+2025-05-13,Europe,Widget A,169,20,3380
+2025-05-14,South America,Widget A,255,20,5100
+2025-05-14,North America,Widget B,93,25,2325
+2025-05-15,Asia,Widget B,221,25,5525
+2025-05-16,Asia,Widget C,125,30,3750
+2025-05-16,North America,Widget A,92,20,1840
+2025-05-16,Asia,Widget A,188,20,3760
+2025-05-16,Asia,Widget A,199,20,3980
+2025-05-16,South America,Widget C,289,30,8670
+2025-05-17,Europe,Widget C,126,30,3780
+2025-05-18,South America,Widget B,279,25,6975
+2025-05-18,South America,Widget C,104,30,3120
+2025-05-19,Europe,Widget C,60,30,1800
+2025-05-20,Asia,Widget A,157,20,3140
+2025-05-20,Europe,Widget B,100,25,2500
+2025-05-21,North America,Widget B,144,25,3600
+2025-05-21,Europe,Widget C,124,30,3720
+2025-05-21,Europe,Widget C,232,30,6960
+2025-05-21,South America,Widget C,61,30,1830
+2025-05-21,Asia,Widget B,84,25,2100
+2025-05-21,North America,Widget B,108,25,2700
+2025-05-22,South America,Widget A,216,20,4320
+2025-05-22,Asia,Widget C,243,30,7290
+2025-05-23,North America,Widget B,267,25,6675
+2025-05-25,North America,Widget B,160,25,4000
+2025-05-25,Europe,Widget C,181,30,5430
+2025-05-25,North America,Widget A,221,20,4420
+2025-05-26,South America,Widget C,300,30,9000
+2025-05-26,South America,Widget B,243,25,6075
+2025-05-26,Europe,Widget A,117,20,2340
+2025-05-26,North America,Widget C,250,30,7500
+2025-05-26,Europe,Widget B,54,25,1350
+2025-05-27,North America,Widget B,137,25,3425
+2025-05-27,Asia,Widget C,280,30,8400
+2025-05-27,Asia,Widget A,300,20,6000
+2025-05-28,North America,Widget B,168,25,4200
+2025-05-28,Asia,Widget C,199,30,5970
+2025-05-29,Europe,Widget B,241,25,6025
+2025-05-30,Europe,Widget B,172,25,4300
+2025-05-30,North America,Widget B,102,25,2550
+2025-05-30,Europe,Widget C,118,30,3540
+2025-05-30,Europe,Widget C,157,30,4710
+2025-05-31,North America,Widget A,205,20,4100
+2025-05-31,North America,Widget B,220,25,5500
+2025-06-01,Europe,Widget C,87,30,2610
+2025-06-01,South America,Widget A,128,20,2560
+2025-06-01,Asia,Widget B,229,25,5725
+2025-06-01,Europe,Widget A,53,20,1060
+2025-06-01,Asia,Widget B,291,25,7275
+2025-06-01,Asia,Widget A,151,20,3020
+2025-06-01,North America,Widget C,234,30,7020
+2025-06-02,North America,Widget A,221,20,4420
+2025-06-02,North America,Widget C,263,30,7890
+2025-06-03,South America,Widget C,112,30,3360
+2025-06-03,Europe,Widget C,160,30,4800
+2025-06-03,North America,Widget A,225,20,4500
+2025-06-03,Europe,Widget C,150,30,4500
+2025-06-04,Europe,Widget B,214,25,5350
+2025-06-04,South America,Widget A,295,20,5900
+2025-06-06,Europe,Widget A,102,20,2040
+2025-06-06,Europe,Widget C,64,30,1920
+2025-06-06,North America,Widget A,288,20,5760
+2025-06-07,Asia,Widget B,298,25,7450
+2025-06-08,South America,Widget C,220,30,6600
+2025-06-09,South America,Widget A,127,20,2540
+2025-06-09,North America,Widget B,68,25,1700
+2025-06-09,Asia,Widget B,255,25,6375
+2025-06-09,Asia,Widget A,240,20,4800
+2025-06-10,Asia,Widget A,265,20,5300
+2025-06-10,Europe,Widget C,104,30,3120
+2025-06-12,Asia,Widget A,91,20,1820
+2025-06-12,Asia,Widget B,284,25,7100
+2025-06-13,Asia,Widget B,197,25,4925
+2025-06-14,Europe,Widget B,213,25,5325
+2025-06-14,North America,Widget A,198,20,3960
+2025-06-14,Asia,Widget B,133,25,3325
+2025-06-15,Europe,Widget A,244,20,4880
+2025-06-15,Asia,Widget C,151,30,4530
+2025-06-15,South America,Widget A,193,20,3860
+2025-06-15,South America,Widget A,113,20,2260
+2025-06-16,North America,Widget C,161,30,4830
+2025-06-16,Asia,Widget A,291,20,5820
+2025-06-16,Europe,Widget A,234,20,4680
+2025-06-17,North America,Widget C,189,30,5670
+2025-06-18,North America,Widget C,234,30,7020
+2025-06-18,South America,Widget A,175,20,3500
+2025-06-18,South America,Widget A,92,20,1840
+2025-06-18,Asia,Widget A,61,20,1220
+2025-06-20,Europe,Widget A,91,20,1820
+2025-06-21,Europe,Widget C,190,30,5700
+2025-06-21,Europe,Widget A,299,20,5980
+2025-06-21,Europe,Widget B,89,25,2225
+2025-06-23,North America,Widget B,148,25,3700
+2025-06-23,Asia,Widget C,187,30,5610
+2025-06-24,Europe,Widget B,189,25,4725
+2025-06-24,North America,Widget B,85,25,2125
+2025-06-25,South America,Widget A,237,20,4740
+2025-06-26,Asia,Widget A,263,20,5260
+2025-06-26,North America,Widget C,97,30,2910
+2025-06-27,South America,Widget B,103,25,2575
+2025-06-27,South America,Widget C,143,30,4290
+2025-06-28,Asia,Widget B,252,25,6300
+2025-06-28,Europe,Widget A,66,20,1320
+2025-06-29,Asia,Widget B,212,25,5300
+2025-06-29,South America,Widget C,115,30,3450
+2025-06-30,South America,Widget C,281,30,8430
+2025-06-30,North America,Widget C,201,30,6030
+2025-06-30,South America,Widget A,213,20,4260
+2025-07-01,Asia,Widget B,212,25,5300
+2025-07-02,Asia,Widget A,299,20,5980
+2025-07-03,Europe,Widget A,228,20,4560
+2025-07-03,Europe,Widget C,262,30,7860
+2025-07-04,Europe,Widget A,130,20,2600
+2025-07-04,North America,Widget B,299,25,7475
+2025-07-06,South America,Widget C,295,30,8850
+2025-07-07,Asia,Widget C,180,30,5400
+2025-07-07,South America,Widget C,257,30,7710
+2025-07-07,South America,Widget A,97,20,1940
+2025-07-07,South America,Widget B,122,25,3050
+2025-07-08,North America,Widget C,273,30,8190
+2025-07-08,South America,Widget C,61,30,1830
+2025-07-08,South America,Widget B,105,25,2625
+2025-07-08,Asia,Widget C,187,30,5610
+2025-07-09,Asia,Widget C,81,30,2430
+2025-07-09,Asia,Widget B,218,25,5450
+2025-07-09,North America,Widget A,220,20,4400
+2025-07-09,North America,Widget A,77,20,1540
+2025-07-10,North America,Widget A,78,20,1560
+2025-07-10,Europe,Widget C,263,30,7890
+2025-07-10,Asia,Widget B,236,25,5900
+2025-07-10,Asia,Widget A,230,20,4600
+2025-07-11,North America,Widget C,255,30,7650
+2025-07-11,Asia,Widget C,277,30,8310
+2025-07-11,Asia,Widget A,166,20,3320
+2025-07-13,Europe,Widget B,189,25,4725
+2025-07-13,Asia,Widget C,246,30,7380
+2025-07-14,Asia,Widget A,127,20,2540
+2025-07-16,Europe,Widget B,229,25,5725
+2025-07-17,North America,Widget B,120,25,3000
+2025-07-17,Europe,Widget A,147,20,2940
+2025-07-17,Asia,Widget A,298,20,5960
+2025-07-17,South America,Widget A,87,20,1740
+2025-07-17,Europe,Widget B,260,25,6500
+2025-07-17,South America,Widget B,121,25,3025
+2025-07-18,South America,Widget B,256,25,6400
+2025-07-18,South America,Widget A,115,20,2300
