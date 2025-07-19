@@ -16,11 +16,13 @@ A simple web application that leverages the OpenAI GPT API to generate clean pan
 
 ## 📁 Project Structure
 llm-data-chatbot/
--├── app.py # Flask server, OpenAI integration, code execution
--├── requirements.txt # Python dependencies
--├── templates/
--│── index.html # Single‑page frontend
--└── README.md # This file
+├── app.py                # Flask backend
+├── requirements.txt      # Python dependencies
+├── .gitignore            # To avoid committing unnecessary files
+├── templates/
+│   └── index.html        # Frontend HTML
+├── README.md             # Project overview
+
 
 WebPage Design:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c6a9b29c-8910-49db-9fee-c6ee55bcfb0c" />
